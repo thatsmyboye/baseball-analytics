@@ -1,0 +1,632 @@
+# Discovered Active MLB Players
+# Total: 628 players
+# Generated: 2026-02-13 18:31:15.959520
+
+  1. juan soto                      FG ID: 20123   Last: 2025
+  2. kyle schwarber                 FG ID: 16478   Last: 2025
+  3. matt olson                     FG ID: 14344   Last: 2025
+  4. willy adames                   FG ID: 15986   Last: 2025
+  5. ian happ                       FG ID: 17919   Last: 2025
+  6. randy arozarena                FG ID: 19290   Last: 2025
+  7. marcus semien                  FG ID: 12533   Last: 2025
+  8. brandon nimmo                  FG ID: 12927   Last: 2025
+  9. bryan reynolds                 FG ID: 19326   Last: 2025
+ 10. nico hoerner                   FG ID: 21479   Last: 2025
+ 11. corbin carroll                 FG ID: 25878   Last: 2025
+ 12. gleyber torres                 FG ID: 16997   Last: 2025
+ 13. steven kwan                    FG ID: 24610   Last: 2025
+ 14. william contreras              FG ID: 20503   Last: 2025
+ 15. nick castellanos               FG ID: 11737   Last: 2025
+ 16. cal raleigh                    FG ID: 21534   Last: 2025
+ 17. nathaniel lowe                 FG ID: 19566   Last: 2025
+ 18. spencer steer                  FG ID: 26323   Last: 2025
+ 19. anthony volpe                  FG ID: 27647   Last: 2025
+ 20. george springer                FG ID: 12856   Last: 2025
+ 21. dansby swanson                 FG ID: 18314   Last: 2025
+ 22. marcell ozuna                  FG ID: 10324   Last: 2025
+ 23. ryan mcmahon                   FG ID: 15112   Last: 2025
+ 24. alex bregman                   FG ID: 17678   Last: 2025
+ 25. christian walker               FG ID: 13419   Last: 2025
+ 26. cj abrams                      FG ID: 25768   Last: 2025
+ 27. brent rooker                   FG ID: 19627   Last: 2025
+ 28. seiya suzuki                   FG ID: 30116   Last: 2025
+ 29. jarren duran                   FG ID: 24617   Last: 2025
+ 30. ketel marte                    FG ID: 13613   Last: 2025
+ 31. cody bellinger                 FG ID: 15998   Last: 2025
+ 32. bryson stott                   FG ID: 26294   Last: 2025
+ 33. matt chapman                   FG ID: 16505   Last: 2025
+ 34. ozzie albies                   FG ID: 16556   Last: 2025
+ 35. josh bell                      FG ID: 2510    Last: 2012
+ 36. taylor ward                    FG ID: 17548   Last: 2025
+ 37. jonathan india                 FG ID: 21523   Last: 2025
+ 38. josh naylor                    FG ID: 18839   Last: 2025
+ 39. brice turang                   FG ID: 22186   Last: 2025
+ 40. alec bohm                      FG ID: 21618   Last: 2025
+ 41. spencer torkelson              FG ID: 27465   Last: 2025
+ 42. ezequiel tovar                 FG ID: 24064   Last: 2025
+ 43. jake cronenworth               FG ID: 18036   Last: 2025
+ 44. ty france                      FG ID: 17982   Last: 2025
+ 45. adley rutschman                FG ID: 26288   Last: 2025
+ 46. carlos santana                 FG ID: 2396    Last: 2025
+ 47. andrew vaughn                  FG ID: 26197   Last: 2025
+ 48. xander bogaerts                FG ID: 12161   Last: 2025
+ 49. riley greene                   FG ID: 25976   Last: 2025
+ 50. isaac paredes                  FG ID: 20036   Last: 2025
+ 51. austin riley                   FG ID: 18360   Last: 2025
+ 52. andrew benintendi              FG ID: 17901   Last: 2025
+ 53. kyle tucker                    FG ID: 18345   Last: 2025
+ 54. geraldo perdomo                FG ID: 22799   Last: 2025
+ 55. tj friedl                      FG ID: 19522   Last: 2025
+ 56. jeff mcneil                    FG ID: 15362   Last: 2025
+ 57. brenton doyle                  FG ID: 25479   Last: 2025
+ 58. bo bichette                    FG ID: 19612   Last: 2025
+ 59. yainer diaz                    FG ID: 23003   Last: 2025
+ 60. jurickson profar               FG ID: 10815   Last: 2025
+ 61. shea langeliers                FG ID: 25816   Last: 2025
+ 62. anthony santander              FG ID: 14551   Last: 2025
+ 63. andrew mccutchen               FG ID: 9847    Last: 2025
+ 64. brendan donovan                FG ID: 24679   Last: 2025
+ 65. will smith                     FG ID: 8048    Last: 2024
+ 66. carlos correa                  FG ID: 14162   Last: 2025
+ 67. corey seager                   FG ID: 13624   Last: 2025
+ 68. willi castro                   FG ID: 17338   Last: 2025
+ 69. vinnie pasquantino             FG ID: 27676   Last: 2025
+ 70. jake burger                    FG ID: 22275   Last: 2025
+ 71. ke'bryan hayes                 FG ID: 18577   Last: 2025
+ 72. lars nootbaar                  FG ID: 21454   Last: 2025
+ 73. alec burleson                  FG ID: 27615   Last: 2025
+ 74. zach neto                      FG ID: 31347   Last: 2025
+ 75. max muncy                      FG ID: 13301   Last: 2025
+ 76. jorge soler                    FG ID: 14221   Last: 2025
+ 77. cedric mullins                 FG ID: 17929   Last: 2025
+ 78. michael conforto               FG ID: 16376   Last: 2025
+ 79. alex verdugo                   FG ID: 17027   Last: 2025
+ 80. jonah heim                     FG ID: 16930   Last: 2025
+ 81. willson contreras              FG ID: 11609   Last: 2025
+ 82. brandon lowe                   FG ID: 18882   Last: 2025
+ 83. mike yastrzemski               FG ID: 14854   Last: 2025
+ 84. tommy pham                     FG ID: 2967    Last: 2025
+ 85. ryan o'hearn                   FG ID: 16442   Last: 2025
+ 86. gavin sheets                   FG ID: 19901   Last: 2025
+ 87. josh smith                     FG ID: 13629   Last: 2020
+ 88. tyler stephenson               FG ID: 17988   Last: 2025
+ 89. brandon marsh                  FG ID: 20202   Last: 2025
+ 90. daulton varsho                 FG ID: 19918   Last: 2025
+ 91. max kepler                     FG ID: 12144   Last: 2025
+ 92. justin turner                  FG ID: 5235    Last: 2025
+ 93. zach mckinstry                 FG ID: 19392   Last: 2025
+ 94. lane thomas                    FG ID: 16939   Last: 2025
+ 95. orlando arcia                  FG ID: 13185   Last: 2025
+ 96. christopher morel              FG ID: 21897   Last: 2025
+ 97. trent grisham                  FG ID: 18564   Last: 2025
+ 98. sal frelick                    FG ID: 29622   Last: 2025
+ 99. jorge polanco                  FG ID: 13152   Last: 2025
+100. ryan mountcastle               FG ID: 18373   Last: 2025
+101. josh lowe                      FG ID: 19953   Last: 2025
+102. isiah kiner-falefa             FG ID: 16512   Last: 2025
+103. keibert ruiz                   FG ID: 19610   Last: 2025
+104. alejandro kirk                 FG ID: 22581   Last: 2025
+105. masyn winn                     FG ID: 27479   Last: 2025
+106. nolan schanuel                 FG ID: 33189   Last: 2025
+107. bryan de la cruz               FG ID: 19600   Last: 2025
+108. luis rengifo                   FG ID: 19858   Last: 2025
+109. jj bleday                      FG ID: 26368   Last: 2025
+110. ha-seong kim                   FG ID: 27506   Last: 2025
+111. byron buxton                   FG ID: 14161   Last: 2025
+112. heliot ramos                   FG ID: 22515   Last: 2025
+113. nolan gorman                   FG ID: 22263   Last: 2025
+114. ryan jeffers                   FG ID: 24618   Last: 2025
+115. leody taveras                  FG ID: 18900   Last: 2025
+116. patrick bailey                 FG ID: 27478   Last: 2025
+117. ceddanne rafaela               FG ID: 24262   Last: 2025
+118. michael busch                  FG ID: 26319   Last: 2025
+119. jake meyers                    FG ID: 20308   Last: 2025
+120. kerry carpenter                FG ID: 25961   Last: 2025
+121. josh jung                      FG ID: 26299   Last: 2025
+122. lawrence butler                FG ID: 22542   Last: 2025
+123. adam frazier                   FG ID: 15223   Last: 2025
+124. masataka yoshida               FG ID: 31837   Last: 2025
+125. mickey moniak                  FG ID: 19956   Last: 2025
+126. matt vierling                  FG ID: 21558   Last: 2025
+127. joc pederson                   FG ID: 11899   Last: 2025
+128. trevor larnach                 FG ID: 21501   Last: 2025
+129. logan o'hoppe                  FG ID: 24729   Last: 2025
+130. wilmer flores                  FG ID: 5827    Last: 2025
+131. mark vientos                   FG ID: 22184   Last: 2025
+132. kyle isbel                     FG ID: 21614   Last: 2025
+133. oneil cruz                     FG ID: 21711   Last: 2025
+134. mike tauchman                  FG ID: 15274   Last: 2025
+135. wyatt langford                 FG ID: 33333   Last: 2025
+136. jeimer candelario              FG ID: 13621   Last: 2025
+137. nolan jones                    FG ID: 20529   Last: 2025
+138. mj melendez                    FG ID: 22197   Last: 2025
+139. dominic smith                  FG ID: 15653   Last: 2025
+140. miguel vargas                  FG ID: 20178   Last: 2025
+141. michael massey                 FG ID: 27684   Last: 2025
+142. mark canha                     FG ID: 11445   Last: 2025
+143. ernie clement                  FG ID: 20352   Last: 2025
+144. paul dejong                    FG ID: 18015   Last: 2025
+145. lenyn sosa                     FG ID: 22896   Last: 2025
+146. jo adell                       FG ID: 20220   Last: 2025
+147. rowdy tellez                   FG ID: 15679   Last: 2025
+148. amed rosario                   FG ID: 15518   Last: 2025
+149. hunter renfroe                 FG ID: 15464   Last: 2025
+150. luke raley                     FG ID: 19354   Last: 2025
+151. connor wong                    FG ID: 19896   Last: 2025
+152. miguel rojas                   FG ID: 7802    Last: 2025
+153. jackson merrill                FG ID: 29490   Last: 2025
+154. thairo estrada                 FG ID: 16426   Last: 2025
+155. andy pages                     FG ID: -1      Last: 2025
+156. mitch garver                   FG ID: 15161   Last: 2025
+157. tommy edman                    FG ID: 19470   Last: 2025
+158. pete crow-armstrong            FG ID: 27769   Last: 2025
+159. randal grichuk                 FG ID: 10243   Last: 2025
+160. starling marte                 FG ID: 9241    Last: 2025
+161. gabriel moreno                 FG ID: 22664   Last: 2025
+162. jordan walker                  FG ID: 27475   Last: 2025
+163. sean murphy                    FG ID: 19352   Last: 2025
+164. josh rojas                     FG ID: 19734   Last: 2025
+165. bo naylor                      FG ID: 21865   Last: 2025
+166. jared triolo                   FG ID: 25807   Last: 2025
+167. jake mccarthy                  FG ID: 21622   Last: 2025
+168. otto lopez                     FG ID: 19608   Last: 2025
+169. jordan westburg                FG ID: 27815   Last: 2025
+170. james wood                     FG ID: -1      Last: 2025
+171. colt keith                     FG ID: 27899   Last: 2025
+172. joey ortiz                     FG ID: 25493   Last: 2025
+173. jacob young                    FG ID: 29931   Last: 2025
+174. xavier edwards                 FG ID: 22266   Last: 2025
+175. colton cowser                  FG ID: 29591   Last: 2025
+176. brett baty                     FG ID: 26123   Last: 2025
+177. gavin lux                      FG ID: 19955   Last: 2025
+178. jack suwinski                  FG ID: 22244   Last: 2025
+179. matt mclain                    FG ID: 29695   Last: 2025
+180. jake fraley                    FG ID: 19260   Last: 2025
+181. tyler freeman                  FG ID: 22532   Last: 2025
+182. gabriel arias                  FG ID: 22563   Last: 2025
+183. tyler soderstrom               FG ID: 27467   Last: 2025
+184. alek thomas                    FG ID: 23792   Last: 2025
+185. santiago espinal               FG ID: 19997   Last: 2025
+186. will benson                    FG ID: 21853   Last: 2025
+187. joey meneses                   FG ID: 14366   Last: 2024
+188. connor joe                     FG ID: 16572   Last: 2025
+189. royce lewis                    FG ID: 20437   Last: 2025
+190. danny jansen                   FG ID: 16535   Last: 2025
+191. freddy fermin                  FG ID: 21840   Last: 2025
+192. wilyer abreu                   FG ID: 23772   Last: 2025
+193. zack gelof                     FG ID: 29766   Last: 2025
+194. michael toglia                 FG ID: 25845   Last: 2025
+195. ezequiel duran                 FG ID: 23733   Last: 2025
+196. donovan solano                 FG ID: 8623    Last: 2025
+197. austin wells                   FG ID: 27562   Last: 2025
+198. dj lemahieu                    FG ID: 9874    Last: 2025
+199. jarred kelenic                 FG ID: 22558   Last: 2025
+200. tyrone taylor                  FG ID: 13675   Last: 2025
+201. trevor story                   FG ID: 12564   Last: 2025
+202. whit merrifield                FG ID: 11281   Last: 2024
+203. nick gonzales                  FG ID: 27490   Last: 2025
+204. taylor walls                   FG ID: 22458   Last: 2025
+205. edouard julien                 FG ID: 27534   Last: 2025
+206. charlie blackmon               FG ID: 7859    Last: 2024
+207. kyle farmer                    FG ID: 14813   Last: 2025
+208. brayan rocchio                 FG ID: 23690   Last: 2025
+209. matt wallner                   FG ID: 26466   Last: 2025
+210. nick fortes                    FG ID: 21538   Last: 2025
+211. gio urshela                    FG ID: 10681   Last: 2025
+212. carson kelly                   FG ID: 13620   Last: 2025
+213. brandon drury                  FG ID: 11615   Last: 2024
+214. hunter goodman                 FG ID: 29715   Last: 2025
+215. alex call                      FG ID: 19296   Last: 2025
+216. james outman                   FG ID: 24770   Last: 2025
+217. travis d'arnaud                FG ID: 7739    Last: 2025
+218. brendan rodgers                FG ID: 17907   Last: 2025
+219. triston casas                  FG ID: 22514   Last: 2025
+220. jackson holliday               FG ID: -1      Last: 2025
+221. tim anderson                   FG ID: 15172   Last: 2025
+222. seth brown                     FG ID: 18171   Last: 2025
+223. kyle higashioka                FG ID: 5517    Last: 2025
+224. nick allen                     FG ID: 1000155  Last: 1920
+225. dylan moore                    FG ID: 18042   Last: 2025
+226. rhys hoskins                   FG ID: 16472   Last: 2025
+227. jake rogers                    FG ID: 19452   Last: 2025
+228. chas mccormick                 FG ID: 19599   Last: 2025
+229. jake bauers                    FG ID: 15194   Last: 2025
+230. eddie rosario                  FG ID: 12155   Last: 2025
+231. edmundo sosa                   FG ID: 17022   Last: 2025
+232. junior caminero                FG ID: 28163   Last: 2025
+233. davis schneider                FG ID: 23565   Last: 2025
+234. myles straw                    FG ID: 17620   Last: 2025
+235. will brennan                   FG ID: 25660   Last: 2025
+236. anthony rizzo                  FG ID: 3473    Last: 2024
+237. spencer horwitz                FG ID: 26477   Last: 2025
+238. jesse winker                   FG ID: 13590   Last: 2025
+239. oswaldo cabrera                FG ID: 21707   Last: 2025
+240. blake perkins                  FG ID: 19921   Last: 2025
+241. jordan beck                    FG ID: -1      Last: 2025
+242. dylan carlson                  FG ID: 20126   Last: 2025
+243. rob refsnyder                  FG ID: 13770   Last: 2025
+244. chris taylor                   FG ID: 13757   Last: 2025
+245. casey schmitt                  FG ID: 27577   Last: 2025
+246. jason heyward                  FG ID: 4940    Last: 2025
+247. addison barger                 FG ID: -1      Last: 2025
+248. noelvi marte                   FG ID: 26517   Last: 2025
+249. brooks lee                     FG ID: -1      Last: 2025
+250. emmanuel rivera                FG ID: 19890   Last: 2025
+251. ildemaro vargas                FG ID: 13324   Last: 2025
+252. joey bart                      FG ID: 21524   Last: 2025
+253. ben rice                       FG ID: -1      Last: 2025
+254. nicky lopez                    FG ID: 19339   Last: 2025
+255. jose trevino                   FG ID: 16725   Last: 2025
+256. johan rojas                    FG ID: 24336   Last: 2025
+257. kevin kiermaier                FG ID: 11038   Last: 2024
+258. kyle manzardo                  FG ID: -1      Last: 2025
+259. jacob stallings                FG ID: 13723   Last: 2025
+260. matt thaiss                    FG ID: 19318   Last: 2025
+261. adam duvall                    FG ID: 10950   Last: 2024
+262. david peralta                  FG ID: 2136    Last: 2024
+263. kevin newman                   FG ID: 17696   Last: 2025
+264. manuel margot                  FG ID: 14712   Last: 2025
+265. pavin smith                    FG ID: 19892   Last: 2025
+266. max schuemann                  FG ID: -1      Last: 2025
+267. jonathan aranda                FG ID: 21837   Last: 2025
+268. kyle stowers                   FG ID: 26151   Last: 2025
+269. robbie grossman                FG ID: 5254    Last: 2024
+270. ryan noda                      FG ID: 23312   Last: 2025
+271. david fry                      FG ID: 24934   Last: 2025
+272. henry davis                    FG ID: 29617   Last: 2025
+273. parker meadows                 FG ID: 23800   Last: 2025
+274. romy gonzalez                  FG ID: 21562   Last: 2025
+275. kody clemens                   FG ID: 20572   Last: 2025
+276. mitch haniger                  FG ID: 14274   Last: 2024
+277. abraham toro                   FG ID: 19844   Last: 2025
+278. yasmani grandal                FG ID: 11368   Last: 2024
+279. cavan biggio                   FG ID: 19252   Last: 2025
+280. daniel schneemann              FG ID: -1      Last: 2025
+281. jorge mateo                    FG ID: 17273   Last: 2025
+282. dominic canzone                FG ID: 26438   Last: 2025
+283. jose iglesias                  FG ID: 10231   Last: 2025
+284. jacob wilson                   FG ID: 13254   Last: 2021
+285. miguel amaya                   FG ID: 21693   Last: 2025
+286. jon berti                      FG ID: 12037   Last: 2025
+287. nick senzel                    FG ID: 19293   Last: 2024
+288. james mccann                   FG ID: 12859   Last: 2025
+289. luis matos                     FG ID: 152     Last: 2006
+290. joey gallo                     FG ID: 14128   Last: 2024
+291. andruw monasterio              FG ID: 19455   Last: 2025
+292. eric wagaman                   FG ID: -1      Last: 2025
+293. tyler fitzgerald               FG ID: 26208   Last: 2025
+294. edward olivares                FG ID: 19698   Last: 2024
+295. austin slater                  FG ID: 16153   Last: 2025
+296. garrett hampson                FG ID: 19262   Last: 2025
+297. riley adams                    FG ID: 19864   Last: 2025
+298. garrett cooper                 FG ID: 15279   Last: 2024
+299. esteury ruiz                   FG ID: 21780   Last: 2025
+300. dillon dingler                 FG ID: -1      Last: 2025
+301. drew waters                    FG ID: 20505   Last: 2025
+302. elehuris montero               FG ID: 20543   Last: 2024
+303. jake cave                      FG ID: 14477   Last: 2024
+304. travis jankowski               FG ID: 13768   Last: 2025
+305. stuart fairchild               FG ID: 20321   Last: 2025
+306. austin hedges                  FG ID: 12976   Last: 2025
+307. ben rortvedt                   FG ID: 20287   Last: 2025
+308. connor norby                   FG ID: -1      Last: 2025
+309. nathan lukes                   FG ID: 18123   Last: 2025
+310. kevin pillar                   FG ID: 12434   Last: 2025
+311. yan gomes                      FG ID: 9627    Last: 2024
+312. corey julks                    FG ID: 20311   Last: 2025
+313. david hamilton                 FG ID: 27531   Last: 2025
+314. dane myers                     FG ID: 22054   Last: 2025
+315. jon singleton                  FG ID: 10441   Last: 2025
+316. caleb durbin                   FG ID: -1      Last: 2025
+317. chase meidroth                 FG ID: -1      Last: 2025
+318. reese mcguire                  FG ID: 15674   Last: 2025
+319. jonah bride                    FG ID: 24703   Last: 2025
+320. christian encarnacion-strand   FG ID: 30011   Last: 2025
+321. alex kirilloff                 FG ID: 20325   Last: 2024
+322. cam smith                      FG ID: -1      Last: 2025
+323. wander franco                  FG ID: 23667   Last: 2023
+324. nick kurtz                     FG ID: -1      Last: 2025
+325. curtis mead                    FG ID: 23986   Last: 2025
+326. joshua palacios                FG ID: 19818   Last: 2025
+327. christian bethancourt          FG ID: 10028   Last: 2024
+328. patrick wisdom                 FG ID: 13602   Last: 2024
+329. enmanuel valdez                FG ID: 21716   Last: 2025
+330. luis campusano                 FG ID: 22217   Last: 2025
+331. joey wiemer                    FG ID: 27690   Last: 2025
+332. brett wisely                   FG ID: 27735   Last: 2025
+333. korey lee                      FG ID: 25543   Last: 2025
+334. evan carter                    FG ID: 27790   Last: 2025
+335. oswald peraza                  FG ID: 22823   Last: 2025
+336. dylan crews                    FG ID: -1      Last: 2025
+337. blaze alexander                FG ID: 23789   Last: 2025
+338. brooks baldwin                 FG ID: -1      Last: 2025
+339. drake baldwin                  FG ID: -1      Last: 2025
+340. trey sweeney                   FG ID: -1      Last: 2025
+341. isaac collins                  FG ID: -1      Last: 2025
+342. chandler simpson               FG ID: -1      Last: 2025
+343. eric haase                     FG ID: 14111   Last: 2025
+344. akil baddoo                    FG ID: 22168   Last: 2025
+345. nick ahmed                     FG ID: 12147   Last: 2025
+346. austin martin                  FG ID: 27462   Last: 2025
+347. matt shaw                      FG ID: -1      Last: 2025
+348. jace peterson                  FG ID: 12325   Last: 2024
+349. miles mastrobuoni              FG ID: 20017   Last: 2025
+350. jake mangum                    FG ID: -1      Last: 2025
+351. nick loftin                    FG ID: 27630   Last: 2025
+352. andrew knizner                 FG ID: 19514   Last: 2025
+353. jonny deluca                   FG ID: 26365   Last: 2025
+354. anthony rendon                 FG ID: 12861   Last: 2024
+355. tony kemp                      FG ID: 14894   Last: 2024
+356. richie palacios                FG ID: 24589   Last: 2025
+357. luis torrens                   FG ID: 15905   Last: 2025
+358. luke maile                     FG ID: 13355   Last: 2025
+359. elvis andrus                   FG ID: 8709    Last: 2023
+360. brandon belt                   FG ID: 10264   Last: 2023
+361. willie calhoun                 FG ID: 17838   Last: 2024
+362. edgar quero                    FG ID: -1      Last: 2025
+363. brandon crawford               FG ID: 5343    Last: 2024
+364. zack short                     FG ID: 19562   Last: 2025
+365. yuli gurriel                   FG ID: 19198   Last: 2025
+366. matt carpenter                 FG ID: 8090    Last: 2024
+367. liam hicks                     FG ID: -1      Last: 2025
+368. tyler nevin                    FG ID: 17893   Last: 2024
+369. nick madrigal                  FG ID: 20521   Last: 2024
+370. mike moustakas                 FG ID: 4892    Last: 2023
+371. aaron hicks                    FG ID: 5297    Last: 2024
+372. garrett mitchell               FG ID: 27555   Last: 2025
+373. derek hill                     FG ID: 16947   Last: 2025
+374. miguel cabrera                 FG ID: 1744    Last: 2023
+375. nick gordon                    FG ID: 16337   Last: 2024
+376. joey loperfido                 FG ID: -1      Last: 2025
+377. brian anderson                 FG ID: 18289   Last: 2024
+378. justyn-henry malloy            FG ID: -1      Last: 2025
+379. nick maton                     FG ID: 21635   Last: 2025
+380. austin barnes                  FG ID: 12158   Last: 2025
+381. nick martini                   FG ID: 12005   Last: 2025
+382. daylen lile                    FG ID: -1      Last: 2025
+383. jhonkensy noel                 FG ID: -1      Last: 2025
+384. thomas saggese                 FG ID: -1      Last: 2025
+385. nick pratto                    FG ID: 22117   Last: 2024
+386. blake sabol                    FG ID: 25805   Last: 2025
+387. dominic fletcher               FG ID: 26149   Last: 2025
+388. javier sanoja                  FG ID: -1      Last: 2025
+389. tyler wade                     FG ID: 15730   Last: 2025
+390. michael siani                  FG ID: 22557   Last: 2025
+391. darell hernaiz                 FG ID: 26224   Last: 2025
+392. jean segura                    FG ID: 5933    Last: 2023
+393. joey wendle                    FG ID: 13853   Last: 2024
+394. owen miller                    FG ID: 24655   Last: 2025
+395. juan yepez                     FG ID: 18400   Last: 2024
+396. mike ford                      FG ID: 15585   Last: 2024
+397. garrett stubbs                 FG ID: 18067   Last: 2025
+398. eduardo escobar                FG ID: 6153    Last: 2023
+399. luis guillorme                 FG ID: 16451   Last: 2025
+400. roman anthony                  FG ID: -1      Last: 2025
+401. liover peguero                 FG ID: 24273   Last: 2025
+402. sam hilliard                   FG ID: 17954   Last: 2025
+403. kyle teel                      FG ID: -1      Last: 2025
+404. ben williamson                 FG ID: -1      Last: 2025
+405. alan trejo                     FG ID: 20056   Last: 2025
+406. coby mayo                      FG ID: -1      Last: 2025
+407. heriberto hernandez            FG ID: -1      Last: 2025
+408. jordan diaz                    FG ID: 22650   Last: 2023
+409. ronny mauricio                 FG ID: 23698   Last: 2025
+410. sam haggerty                   FG ID: 18054   Last: 2025
+411. colson montgomery              FG ID: -1      Last: 2025
+412. heston kjerstad                FG ID: 31166   Last: 2025
+413. cristian pache                 FG ID: 19948   Last: 2024
+414. brady house                    FG ID: -1      Last: 2025
+415. eli white                      FG ID: 19346   Last: 2025
+416. stone garrett                  FG ID: 19273   Last: 2024
+417. dairon blanco                  FG ID: 19779   Last: 2025
+418. harold castro                  FG ID: 14691   Last: 2023
+419. trey mancini                   FG ID: 15149   Last: 2023
+420. kristian campbell              FG ID: -1      Last: 2025
+421. cole young                     FG ID: -1      Last: 2025
+422. rodolfo castro                 FG ID: 21987   Last: 2023
+423. austin wynns                   FG ID: 15271   Last: 2025
+424. alex jackson                   FG ID: 17276   Last: 2025
+425. kolten wong                    FG ID: 12532   Last: 2023
+426. pablo reyes                    FG ID: 16357   Last: 2025
+427. joey votto                     FG ID: 4314    Last: 2023
+428. evan longoria                  FG ID: 9368    Last: 2023
+429. will wagner                    FG ID: -1      Last: 2025
+430. alexander canario              FG ID: 22842   Last: 2025
+431. jakob marsee                   FG ID: -1      Last: 2025
+432. matt mervis                    FG ID: 27845   Last: 2025
+433. jac caglianone                 FG ID: -1      Last: 2025
+434. tim tawa                       FG ID: -1      Last: 2025
+435. weston wilson                  FG ID: 19358   Last: 2025
+436. curt casali                    FG ID: 12510   Last: 2024
+437. tucupita marcano               FG ID: 22871   Last: 2023
+438. tucker barnhart                FG ID: 10200   Last: 2025
+439. otto kemp                      FG ID: -1      Last: 2025
+440. adrian del castillo            FG ID: -1      Last: 2025
+441. kameron misner                 FG ID: -1      Last: 2025
+442. trey lipscomb                  FG ID: 31567   Last: 2025
+443. leo jimenez                    FG ID: -1      Last: 2025
+444. danny mendick                  FG ID: 18889   Last: 2024
+445. matt duffy                     FG ID: 12181   Last: 2016
+446. alika williams                 FG ID: 27604   Last: 2024
+447. brett harris                   FG ID: -1      Last: 2025
+448. luke keaschall                 FG ID: -1      Last: 2025
+449. ryan ritter                    FG ID: -1      Last: 2025
+450. christian arroyo               FG ID: 16434   Last: 2023
+451. kyren paris                    FG ID: 26420   Last: 2025
+452. leo rivas                      FG ID: -1      Last: 2025
+453. michael stefanic               FG ID: 25353   Last: 2025
+454. vaughn grissom                 FG ID: 26031   Last: 2024
+455. seby zavala                    FG ID: 18887   Last: 2024
+456. christian koss                 FG ID: -1      Last: 2025
+457. taylor trammell                FG ID: 19960   Last: 2025
+458. nick sogard                    FG ID: -1      Last: 2025
+459. josh donaldson                 FG ID: 5038    Last: 2023
+460. jason delay                    FG ID: 19806   Last: 2024
+461. daz cameron                    FG ID: 18353   Last: 2025
+462. graham pauley                  FG ID: 31363   Last: 2025
+463. christian moore                FG ID: -1      Last: 2025
+464. jeremiah jackson               FG ID: -1      Last: 2025
+465. estevan florial                FG ID: 19151   Last: 2024
+466. sean bouchard                  FG ID: 21270   Last: 2025
+467. trayce thompson                FG ID: 9952    Last: 2023
+468. jonatan clase                  FG ID: -1      Last: 2025
+469. jared walsh                    FG ID: 18607   Last: 2024
+470. alejandro osuna                FG ID: -1      Last: 2025
+471. everson pereira                FG ID: 23695   Last: 2025
+472. jake alu                       FG ID: 25569   Last: 2023
+473. jerar encarnacion              FG ID: 21871   Last: 2025
+474. griffin conine                 FG ID: -1      Last: 2025
+475. john rave                      FG ID: -1      Last: 2025
+476. zach dezenzo                   FG ID: -1      Last: 2025
+477. kole calhoun                   FG ID: 11200   Last: 2023
+478. tyler heineman                 FG ID: 13897   Last: 2025
+479. chad wallach                   FG ID: 17161   Last: 2025
+480. hyeseong kim                   FG ID: -1      Last: 2025
+481. raimel tapia                   FG ID: 14350   Last: 2023
+482. yohel pozo                     FG ID: 18848   Last: 2025
+483. zach remillard                 FG ID: 19788   Last: 2024
+484. denzel clarke                  FG ID: -1      Last: 2025
+485. tom murphy                     FG ID: 1009376  Last: 1979
+486. rougned odor                   FG ID: 12282   Last: 2023
+487. kyle mccann                    FG ID: 25575   Last: 2024
+488. bryce johnson                  FG ID: 20002   Last: 2025
+489. kyle karros                    FG ID: -1      Last: 2025
+490. dalton rushing                 FG ID: -1      Last: 2025
+491. austin nola                    FG ID: 15941   Last: 2025
+492. alan roden                     FG ID: -1      Last: 2025
+493. nelson cruz                    FG ID: 554     Last: 2003
+494. corey dickerson                FG ID: 10762   Last: 2023
+495. david hensley                  FG ID: 25111   Last: 2024
+496. jonathan schoop                FG ID: 11265   Last: 2023
+497. bryce teodosio                 FG ID: -1      Last: 2025
+498. jahmai jones                   FG ID: 18872   Last: 2025
+499. cam gallagher                  FG ID: 12981   Last: 2023
+500. jace jung                      FG ID: -1      Last: 2025
+501. brandon lockridge              FG ID: -1      Last: 2025
+502. trey cabbage                   FG ID: 21078   Last: 2024
+503. billy mckinney                 FG ID: 15654   Last: 2025
+504. warming bernabel               FG ID: -1      Last: 2025
+505. bobby dalbec                   FG ID: 19966   Last: 2025
+506. kevin smith                    FG ID: 20242   Last: 2024
+507. nate eaton                     FG ID: 25055   Last: 2025
+508. jacob amaya                    FG ID: 23296   Last: 2025
+509. wil myers                      FG ID: 10047   Last: 2023
+510. david villar                   FG ID: 24782   Last: 2025
+511. mike zunino                    FG ID: 13265   Last: 2023
+512. ryan mckenna                   FG ID: 19928   Last: 2024
+513. matthew batten                 FG ID: 20157   Last: 2024
+514. dylan beavers                  FG ID: -1      Last: 2025
+515. rafael ortega                  FG ID: 10323   Last: 2024
+516. marcelo mayer                  FG ID: -1      Last: 2025
+517. colby thomas                   FG ID: -1      Last: 2025
+518. grant mccray                   FG ID: -1      Last: 2025
+519. adael amador                   FG ID: -1      Last: 2025
+520. alfonso rivas                  FG ID: 21560   Last: 2023
+521. cody freeman                   FG ID: -1      Last: 2025
+522. troy johnston                  FG ID: -1      Last: 2025
+523. braxton fulford                FG ID: -1      Last: 2025
+524. samuel basallo                 FG ID: -1      Last: 2025
+525. drew millas                    FG ID: 25643   Last: 2025
+526. tyler locklear                 FG ID: -1      Last: 2025
+527. josh harrison                  FG ID: 8202    Last: 2023
+528. yu chang                       FG ID: 14773   Last: 2023
+529. willie maciver                 FG ID: -1      Last: 2025
+530. mickey gasper                  FG ID: -1      Last: 2025
+531. michael helman                 FG ID: -1      Last: 2025
+532. drew gilbert                   FG ID: -1      Last: 2025
+533. bryan ramos                    FG ID: -1      Last: 2025
+534. niko kavadas                   FG ID: -1      Last: 2025
+535. carson williams                FG ID: -1      Last: 2025
+536. vinny capra                    FG ID: 25040   Last: 2025
+537. hunter feduccia                FG ID: -1      Last: 2025
+538. cooper hummel                  FG ID: 19458   Last: 2025
+539. jonathan davis                 FG ID: 15104   Last: 2023
+540. oliver dunn                    FG ID: 26295   Last: 2025
+541. cade marlowe                   FG ID: 25505   Last: 2024
+542. eric hosmer                    FG ID: 3516    Last: 2023
+543. luken baker                    FG ID: 21497   Last: 2025
+544. ben gamel                      FG ID: 12160   Last: 2024
+545. carlos cortes                  FG ID: -1      Last: 2025
+546. aaron schunk                   FG ID: -1      Last: 2025
+547. david fletcher                 FG ID: 17992   Last: 2024
+548. alex freeland                  FG ID: -1      Last: 2025
+549. michael chavis                 FG ID: 17321   Last: 2023
+550. osleivis basabe                FG ID: 23985   Last: 2023
+551. carter kieboom                 FG ID: 19958   Last: 2025
+552. andrew velazquez               FG ID: 14196   Last: 2023
+553. hunter dozier                  FG ID: 15117   Last: 2023
+554. will wilson                    FG ID: -1      Last: 2025
+555. jordan luplow                  FG ID: 16424   Last: 2023
+556. hanser alberto                 FG ID: 11902   Last: 2023
+557. ronny simon                    FG ID: -1      Last: 2025
+558. tristan gray                   FG ID: 19877   Last: 2025
+559. conner capel                   FG ID: 19983   Last: 2024
+560. brandon dixon                  FG ID: 15214   Last: 2023
+561. brett sullivan                 FG ID: 18217   Last: 2025
+562. henry ramos                    FG ID: 11481   Last: 2023
+563. bob seymour                    FG ID: -1      Last: 2025
+564. jake marisnick                 FG ID: 11339   Last: 2023
+565. taylor motter                  FG ID: 12399   Last: 2023
+566. marco luciano                  FG ID: 25616   Last: 2024
+567. yonathan daza                  FG ID: 15794   Last: 2023
+568. mike brosseau                  FG ID: 19683   Last: 2023
+569. hayden senger                  FG ID: -1      Last: 2025
+570. jacob melton                   FG ID: -1      Last: 2025
+571. jhonny pereda                  FG ID: -1      Last: 2025
+572. jorge barrosa                  FG ID: 23968   Last: 2025
+573. chuckie robinson               FG ID: 19824   Last: 2025
+574. will robertson                 FG ID: -1      Last: 2025
+575. zach deloach                   FG ID: -1      Last: 2024
+576. blake dunn                     FG ID: -1      Last: 2025
+577. bligh madris                   FG ID: 20054   Last: 2024
+578. luke voit                      FG ID: 14811   Last: 2023
+579. blaine crim                    FG ID: -1      Last: 2025
+580. jordan lawlar                  FG ID: 29976   Last: 2025
+581. anthony seigler                FG ID: -1      Last: 2025
+582. matt beaty                     FG ID: 17710   Last: 2023
+583. nick yorke                     FG ID: -1      Last: 2025
+584. tim elko                       FG ID: -1      Last: 2025
+585. mark mathias                   FG ID: 18032   Last: 2023
+586. franchy cordero                FG ID: 14567   Last: 2023
+587. ryan bliss                     FG ID: -1      Last: 2025
+588. brett phillips                 FG ID: 14735   Last: 2023
+589. brian serven                   FG ID: 19422   Last: 2024
+590. matthew lugo                   FG ID: -1      Last: 2025
+591. carter jensen                  FG ID: -1      Last: 2025
+592. samad taylor                   FG ID: 22274   Last: 2025
+593. jacob hurtubise                FG ID: -1      Last: 2025
+594. tim locastro                   FG ID: 15124   Last: 2023
+595. braden shewmake                FG ID: 25817   Last: 2024
+596. brad miller                    FG ID: 12775   Last: 2023
+597. jorbit vivas                   FG ID: -1      Last: 2025
+598. gustavo campero                FG ID: -1      Last: 2025
+599. jason vosler                   FG ID: 16686   Last: 2024
+600. nathan church                  FG ID: -1      Last: 2025
+601. franmil reyes                  FG ID: 14566   Last: 2023
+602. ryan kreidler                  FG ID: 25867   Last: 2025
+603. wade meckler                   FG ID: 31490   Last: 2023
+604. david dahl                     FG ID: 13744   Last: 2024
+605. maximo acosta                  FG ID: -1      Last: 2025
+606. bubba thompson                 FG ID: 22261   Last: 2024
+607. sam huff                       FG ID: 22209   Last: 2025
+608. sal stewart                    FG ID: -1      Last: 2025
+609. mason mccoy                    FG ID: 22232   Last: 2025
+610. michael brantley               FG ID: 4106    Last: 2023
+611. tyler tolbert                  FG ID: -1      Last: 2025
+612. daniel johnson                 FG ID: 19643   Last: 2025
+613. darin ruf                      FG ID: 9929    Last: 2023
+614. tyler black                    FG ID: -1      Last: 2025
+615. eguy rosario                   FG ID: 19964   Last: 2024
+616. cole tucker                    FG ID: 17326   Last: 2024
+617. terrin vavra                   FG ID: 24400   Last: 2025
+618. darick hall                    FG ID: 19717   Last: 2023
+619. kyle lewis                     FG ID: 19508   Last: 2023
+620. jake lamb                      FG ID: 13329   Last: 2023
+621. chadwick tromp                 FG ID: 16953   Last: 2025
+622. ryan fitzgerald                FG ID: -1      Last: 2025
+623. drew romo                      FG ID: -1      Last: 2025
+624. zach cole                      FG ID: -1      Last: 2025
+625. jorge alfaro                   FG ID: 12180   Last: 2025
+626. luke williams                  FG ID: 19931   Last: 2025
+627. rece hinds                     FG ID: -1      Last: 2025
+628. austin shenton                 FG ID: 25425   Last: 2024

@@ -1,0 +1,3777 @@
+{
+  "completed": [
+    {
+      "name": "juan soto",
+      "fg_id": "20123",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:37:15.467830"
+    },
+    {
+      "name": "kyle schwarber",
+      "fg_id": "16478",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:37:17.770892"
+    },
+    {
+      "name": "matt olson",
+      "fg_id": "14344",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:37:20.115852"
+    },
+    {
+      "name": "willy adames",
+      "fg_id": "15986",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:37:22.523649"
+    },
+    {
+      "name": "ian happ",
+      "fg_id": "17919",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:37:24.798523"
+    },
+    {
+      "name": "randy arozarena",
+      "fg_id": "19290",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:37:27.053266"
+    },
+    {
+      "name": "marcus semien",
+      "fg_id": "12533",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:37:29.368682"
+    },
+    {
+      "name": "brandon nimmo",
+      "fg_id": "12927",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:37:31.671255"
+    },
+    {
+      "name": "bryan reynolds",
+      "fg_id": "19326",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:37:33.916605"
+    },
+    {
+      "name": "nico hoerner",
+      "fg_id": "21479",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:37:36.176830"
+    },
+    {
+      "name": "corbin carroll",
+      "fg_id": "25878",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:37:38.430129"
+    },
+    {
+      "name": "gleyber torres",
+      "fg_id": "16997",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:37:40.754372"
+    },
+    {
+      "name": "steven kwan",
+      "fg_id": "24610",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:37:43.098215"
+    },
+    {
+      "name": "william contreras",
+      "fg_id": "20503",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:37:45.379722"
+    },
+    {
+      "name": "nick castellanos",
+      "fg_id": "11737",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:37:47.941933"
+    },
+    {
+      "name": "cal raleigh",
+      "fg_id": "21534",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:37:50.160521"
+    },
+    {
+      "name": "nathaniel lowe",
+      "fg_id": "19566",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:37:52.413447"
+    },
+    {
+      "name": "spencer steer",
+      "fg_id": "26323",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:37:54.665754"
+    },
+    {
+      "name": "anthony volpe",
+      "fg_id": "27647",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:37:56.886748"
+    },
+    {
+      "name": "george springer",
+      "fg_id": "12856",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:37:59.207406"
+    },
+    {
+      "name": "dansby swanson",
+      "fg_id": "18314",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:38:01.817542"
+    },
+    {
+      "name": "marcell ozuna",
+      "fg_id": "10324",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:38:04.119129"
+    },
+    {
+      "name": "ryan mcmahon",
+      "fg_id": "15112",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:38:06.390443"
+    },
+    {
+      "name": "alex bregman",
+      "fg_id": "17678",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:38:08.702115"
+    },
+    {
+      "name": "christian walker",
+      "fg_id": "13419",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:38:11.040466"
+    },
+    {
+      "name": "cj abrams",
+      "fg_id": "25768",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:38:13.310918"
+    },
+    {
+      "name": "brent rooker",
+      "fg_id": "19627",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:38:15.693984"
+    },
+    {
+      "name": "seiya suzuki",
+      "fg_id": "30116",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:38:17.997862"
+    },
+    {
+      "name": "jarren duran",
+      "fg_id": "24617",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:38:20.258529"
+    },
+    {
+      "name": "ketel marte",
+      "fg_id": "13613",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:38:22.592834"
+    },
+    {
+      "name": "cody bellinger",
+      "fg_id": "15998",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:38:24.891755"
+    },
+    {
+      "name": "bryson stott",
+      "fg_id": "26294",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:38:27.098254"
+    },
+    {
+      "name": "matt chapman",
+      "fg_id": "16505",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:38:29.399245"
+    },
+    {
+      "name": "ozzie albies",
+      "fg_id": "16556",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:38:31.779029"
+    },
+    {
+      "name": "josh bell",
+      "fg_id": "2510",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:38:33.992081"
+    },
+    {
+      "name": "taylor ward",
+      "fg_id": "17548",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:38:36.293055"
+    },
+    {
+      "name": "jonathan india",
+      "fg_id": "21523",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:38:38.541757"
+    },
+    {
+      "name": "josh naylor",
+      "fg_id": "18839",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:38:40.864278"
+    },
+    {
+      "name": "brice turang",
+      "fg_id": "22186",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:38:43.114647"
+    },
+    {
+      "name": "alec bohm",
+      "fg_id": "21618",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:38:45.341919"
+    },
+    {
+      "name": "spencer torkelson",
+      "fg_id": "27465",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:38:47.656110"
+    },
+    {
+      "name": "ezequiel tovar",
+      "fg_id": "24064",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:38:49.874709"
+    },
+    {
+      "name": "jake cronenworth",
+      "fg_id": "18036",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:38:52.306614"
+    },
+    {
+      "name": "ty france",
+      "fg_id": "17982",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:38:54.657801"
+    },
+    {
+      "name": "adley rutschman",
+      "fg_id": "26288",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:38:57.261801"
+    },
+    {
+      "name": "carlos santana",
+      "fg_id": "2396",
+      "seasons": 19,
+      "timestamp": "2026-02-13T18:38:59.635731"
+    },
+    {
+      "name": "andrew vaughn",
+      "fg_id": "26197",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:39:01.900828"
+    },
+    {
+      "name": "xander bogaerts",
+      "fg_id": "12161",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:39:04.212322"
+    },
+    {
+      "name": "riley greene",
+      "fg_id": "25976",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:39:06.477269"
+    },
+    {
+      "name": "isaac paredes",
+      "fg_id": "20036",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:39:08.778814"
+    },
+    {
+      "name": "austin riley",
+      "fg_id": "18360",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:39:11.052420"
+    },
+    {
+      "name": "andrew benintendi",
+      "fg_id": "17901",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:39:13.328023"
+    },
+    {
+      "name": "kyle tucker",
+      "fg_id": "18345",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:39:15.632525"
+    },
+    {
+      "name": "geraldo perdomo",
+      "fg_id": "22799",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:39:17.915425"
+    },
+    {
+      "name": "tj friedl",
+      "fg_id": "19522",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:39:20.146970"
+    },
+    {
+      "name": "jeff mcneil",
+      "fg_id": "15362",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:39:22.427340"
+    },
+    {
+      "name": "brenton doyle",
+      "fg_id": "25479",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:39:24.675920"
+    },
+    {
+      "name": "bo bichette",
+      "fg_id": "19612",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:39:26.925674"
+    },
+    {
+      "name": "yainer diaz",
+      "fg_id": "23003",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:39:29.127719"
+    },
+    {
+      "name": "jurickson profar",
+      "fg_id": "10815",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:39:31.429018"
+    },
+    {
+      "name": "shea langeliers",
+      "fg_id": "25816",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:39:33.673119"
+    },
+    {
+      "name": "anthony santander",
+      "fg_id": "14551",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:39:35.954179"
+    },
+    {
+      "name": "andrew mccutchen",
+      "fg_id": "9847",
+      "seasons": 18,
+      "timestamp": "2026-02-13T18:39:38.295363"
+    },
+    {
+      "name": "brendan donovan",
+      "fg_id": "24679",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:39:40.545092"
+    },
+    {
+      "name": "will smith",
+      "fg_id": "8048",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:39:42.852116"
+    },
+    {
+      "name": "carlos correa",
+      "fg_id": "14162",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:39:45.130476"
+    },
+    {
+      "name": "corey seager",
+      "fg_id": "13624",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:39:47.499897"
+    },
+    {
+      "name": "willi castro",
+      "fg_id": "17338",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:39:49.780320"
+    },
+    {
+      "name": "vinnie pasquantino",
+      "fg_id": "27676",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:39:52.020913"
+    },
+    {
+      "name": "jake burger",
+      "fg_id": "22275",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:39:54.305995"
+    },
+    {
+      "name": "ke'bryan hayes",
+      "fg_id": "18577",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:39:56.529653"
+    },
+    {
+      "name": "lars nootbaar",
+      "fg_id": "21454",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:39:58.780102"
+    },
+    {
+      "name": "alec burleson",
+      "fg_id": "27615",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:40:01.101601"
+    },
+    {
+      "name": "zach neto",
+      "fg_id": "31347",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:40:03.361362"
+    },
+    {
+      "name": "max muncy",
+      "fg_id": "13301",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:40:05.626704"
+    },
+    {
+      "name": "jorge soler",
+      "fg_id": "14221",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:40:07.931538"
+    },
+    {
+      "name": "cedric mullins",
+      "fg_id": "17929",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:40:10.217547"
+    },
+    {
+      "name": "michael conforto",
+      "fg_id": "16376",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:40:12.694316"
+    },
+    {
+      "name": "alex verdugo",
+      "fg_id": "17027",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:40:15.027600"
+    },
+    {
+      "name": "jonah heim",
+      "fg_id": "16930",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:40:17.281671"
+    },
+    {
+      "name": "willson contreras",
+      "fg_id": "11609",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:40:19.714021"
+    },
+    {
+      "name": "brandon lowe",
+      "fg_id": "18882",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:40:21.966490"
+    },
+    {
+      "name": "mike yastrzemski",
+      "fg_id": "14854",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:40:24.229416"
+    },
+    {
+      "name": "tommy pham",
+      "fg_id": "2967",
+      "seasons": 18,
+      "timestamp": "2026-02-13T18:40:26.605170"
+    },
+    {
+      "name": "ryan o'hearn",
+      "fg_id": "16442",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:40:28.897390"
+    },
+    {
+      "name": "gavin sheets",
+      "fg_id": "19901",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:40:31.198019"
+    },
+    {
+      "name": "josh smith",
+      "fg_id": "13629",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:40:33.392879"
+    },
+    {
+      "name": "tyler stephenson",
+      "fg_id": "17988",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:40:35.672504"
+    },
+    {
+      "name": "brandon marsh",
+      "fg_id": "20202",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:40:37.943678"
+    },
+    {
+      "name": "daulton varsho",
+      "fg_id": "19918",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:40:40.230636"
+    },
+    {
+      "name": "max kepler",
+      "fg_id": "12144",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:40:42.499840"
+    },
+    {
+      "name": "justin turner",
+      "fg_id": "5235",
+      "seasons": 19,
+      "timestamp": "2026-02-13T18:40:44.874265"
+    },
+    {
+      "name": "zach mckinstry",
+      "fg_id": "19392",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:40:47.156688"
+    },
+    {
+      "name": "lane thomas",
+      "fg_id": "16939",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:40:49.482935"
+    },
+    {
+      "name": "orlando arcia",
+      "fg_id": "13185",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:40:51.793921"
+    },
+    {
+      "name": "christopher morel",
+      "fg_id": "21897",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:40:54.092723"
+    },
+    {
+      "name": "trent grisham",
+      "fg_id": "18564",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:40:56.344017"
+    },
+    {
+      "name": "sal frelick",
+      "fg_id": "29622",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:40:58.573131"
+    },
+    {
+      "name": "jorge polanco",
+      "fg_id": "13152",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:41:00.899001"
+    },
+    {
+      "name": "ryan mountcastle",
+      "fg_id": "18373",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:41:03.185947"
+    },
+    {
+      "name": "josh lowe",
+      "fg_id": "19953",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:41:05.435121"
+    },
+    {
+      "name": "isiah kiner-falefa",
+      "fg_id": "16512",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:41:07.699777"
+    },
+    {
+      "name": "keibert ruiz",
+      "fg_id": "19610",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:41:09.900768"
+    },
+    {
+      "name": "alejandro kirk",
+      "fg_id": "22581",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:41:12.142969"
+    },
+    {
+      "name": "masyn winn",
+      "fg_id": "27479",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:41:14.415003"
+    },
+    {
+      "name": "bryan de la cruz",
+      "fg_id": "19600",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:41:18.949297"
+    },
+    {
+      "name": "luis rengifo",
+      "fg_id": "19858",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:41:21.208103"
+    },
+    {
+      "name": "jj bleday",
+      "fg_id": "26368",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:41:23.483011"
+    },
+    {
+      "name": "ha-seong kim",
+      "fg_id": "27506",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:41:25.748892"
+    },
+    {
+      "name": "byron buxton",
+      "fg_id": "14161",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:41:28.041165"
+    },
+    {
+      "name": "heliot ramos",
+      "fg_id": "22515",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:41:30.361622"
+    },
+    {
+      "name": "nolan gorman",
+      "fg_id": "22263",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:41:32.568634"
+    },
+    {
+      "name": "ryan jeffers",
+      "fg_id": "24618",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:41:34.868051"
+    },
+    {
+      "name": "leody taveras",
+      "fg_id": "18900",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:41:37.150423"
+    },
+    {
+      "name": "patrick bailey",
+      "fg_id": "27478",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:41:42.271999"
+    },
+    {
+      "name": "ceddanne rafaela",
+      "fg_id": "24262",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:41:45.008298"
+    },
+    {
+      "name": "michael busch",
+      "fg_id": "26319",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:41:47.262911"
+    },
+    {
+      "name": "jake meyers",
+      "fg_id": "20308",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:41:49.577768"
+    },
+    {
+      "name": "kerry carpenter",
+      "fg_id": "25961",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:41:51.810288"
+    },
+    {
+      "name": "josh jung",
+      "fg_id": "26299",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:41:54.075180"
+    },
+    {
+      "name": "lawrence butler",
+      "fg_id": "22542",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:41:56.420865"
+    },
+    {
+      "name": "adam frazier",
+      "fg_id": "15223",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:41:58.720138"
+    },
+    {
+      "name": "masataka yoshida",
+      "fg_id": "31837",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:42:01.039757"
+    },
+    {
+      "name": "mickey moniak",
+      "fg_id": "19956",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:42:03.341603"
+    },
+    {
+      "name": "matt vierling",
+      "fg_id": "21558",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:42:05.581601"
+    },
+    {
+      "name": "joc pederson",
+      "fg_id": "11899",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:42:07.889056"
+    },
+    {
+      "name": "trevor larnach",
+      "fg_id": "21501",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:42:10.113731"
+    },
+    {
+      "name": "logan o'hoppe",
+      "fg_id": "24729",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:42:12.355117"
+    },
+    {
+      "name": "wilmer flores",
+      "fg_id": "5827",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:42:14.715707"
+    },
+    {
+      "name": "mark vientos",
+      "fg_id": "22184",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:42:16.958549"
+    },
+    {
+      "name": "kyle isbel",
+      "fg_id": "21614",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:42:19.243591"
+    },
+    {
+      "name": "oneil cruz",
+      "fg_id": "21711",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:42:21.539034"
+    },
+    {
+      "name": "mike tauchman",
+      "fg_id": "15274",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:42:24.151703"
+    },
+    {
+      "name": "jeimer candelario",
+      "fg_id": "13621",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:42:28.780350"
+    },
+    {
+      "name": "nolan jones",
+      "fg_id": "20529",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:42:31.065538"
+    },
+    {
+      "name": "mj melendez",
+      "fg_id": "22197",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:42:33.307199"
+    },
+    {
+      "name": "dominic smith",
+      "fg_id": "15653",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:42:35.646930"
+    },
+    {
+      "name": "miguel vargas",
+      "fg_id": "20178",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:42:37.899073"
+    },
+    {
+      "name": "michael massey",
+      "fg_id": "27684",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:42:40.316675"
+    },
+    {
+      "name": "mark canha",
+      "fg_id": "11445",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:42:42.642560"
+    },
+    {
+      "name": "ernie clement",
+      "fg_id": "20352",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:42:44.877441"
+    },
+    {
+      "name": "paul dejong",
+      "fg_id": "18015",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:42:47.174041"
+    },
+    {
+      "name": "lenyn sosa",
+      "fg_id": "22896",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:42:49.416341"
+    },
+    {
+      "name": "jo adell",
+      "fg_id": "20220",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:42:51.686071"
+    },
+    {
+      "name": "rowdy tellez",
+      "fg_id": "15679",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:42:53.993353"
+    },
+    {
+      "name": "amed rosario",
+      "fg_id": "15518",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:42:56.334802"
+    },
+    {
+      "name": "hunter renfroe",
+      "fg_id": "15464",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:42:58.782258"
+    },
+    {
+      "name": "luke raley",
+      "fg_id": "19354",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:43:01.056603"
+    },
+    {
+      "name": "connor wong",
+      "fg_id": "19896",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:43:03.329528"
+    },
+    {
+      "name": "miguel rojas",
+      "fg_id": "7802",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:43:05.686690"
+    },
+    {
+      "name": "jackson merrill",
+      "fg_id": "29490",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:43:08.013092"
+    },
+    {
+      "name": "thairo estrada",
+      "fg_id": "16426",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:43:10.312931"
+    },
+    {
+      "name": "mitch garver",
+      "fg_id": "15161",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:43:14.863307"
+    },
+    {
+      "name": "tommy edman",
+      "fg_id": "19470",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:43:17.676687"
+    },
+    {
+      "name": "pete crow-armstrong",
+      "fg_id": "27769",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:19.883652"
+    },
+    {
+      "name": "randal grichuk",
+      "fg_id": "10243",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:43:22.248794"
+    },
+    {
+      "name": "starling marte",
+      "fg_id": "9241",
+      "seasons": 16,
+      "timestamp": "2026-02-13T18:43:24.638795"
+    },
+    {
+      "name": "gabriel moreno",
+      "fg_id": "22664",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:43:27.052614"
+    },
+    {
+      "name": "jordan walker",
+      "fg_id": "27475",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:29.310609"
+    },
+    {
+      "name": "sean murphy",
+      "fg_id": "19352",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:43:31.587731"
+    },
+    {
+      "name": "josh rojas",
+      "fg_id": "19734",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:43:33.853772"
+    },
+    {
+      "name": "bo naylor",
+      "fg_id": "21865",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:43:36.105344"
+    },
+    {
+      "name": "jared triolo",
+      "fg_id": "25807",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:38.496201"
+    },
+    {
+      "name": "jake mccarthy",
+      "fg_id": "21622",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:43:40.777856"
+    },
+    {
+      "name": "otto lopez",
+      "fg_id": "19608",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:43:43.091470"
+    },
+    {
+      "name": "jordan westburg",
+      "fg_id": "27815",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:45.267680"
+    },
+    {
+      "name": "colt keith",
+      "fg_id": "27899",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:49.605574"
+    },
+    {
+      "name": "joey ortiz",
+      "fg_id": "25493",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:51.855267"
+    },
+    {
+      "name": "xavier edwards",
+      "fg_id": "22266",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:43:56.265618"
+    },
+    {
+      "name": "brett baty",
+      "fg_id": "26123",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:00.710727"
+    },
+    {
+      "name": "gavin lux",
+      "fg_id": "19955",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:44:02.991714"
+    },
+    {
+      "name": "jack suwinski",
+      "fg_id": "22244",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:05.237595"
+    },
+    {
+      "name": "jake fraley",
+      "fg_id": "19260",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:44:09.721797"
+    },
+    {
+      "name": "tyler freeman",
+      "fg_id": "22532",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:11.938902"
+    },
+    {
+      "name": "gabriel arias",
+      "fg_id": "22563",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:44:14.234865"
+    },
+    {
+      "name": "tyler soderstrom",
+      "fg_id": "27467",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:44:17.613922"
+    },
+    {
+      "name": "alek thomas",
+      "fg_id": "23792",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:44:20.706503"
+    },
+    {
+      "name": "santiago espinal",
+      "fg_id": "19997",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:44:22.961558"
+    },
+    {
+      "name": "will benson",
+      "fg_id": "21853",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:25.221113"
+    },
+    {
+      "name": "joey meneses",
+      "fg_id": "14366",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:27.482286"
+    },
+    {
+      "name": "connor joe",
+      "fg_id": "16572",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:44:29.794022"
+    },
+    {
+      "name": "royce lewis",
+      "fg_id": "20437",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:32.045734"
+    },
+    {
+      "name": "danny jansen",
+      "fg_id": "16535",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:44:34.371447"
+    },
+    {
+      "name": "freddy fermin",
+      "fg_id": "21840",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:44:36.609793"
+    },
+    {
+      "name": "wilyer abreu",
+      "fg_id": "23772",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:44:38.873368"
+    },
+    {
+      "name": "michael toglia",
+      "fg_id": "25845",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:43.316771"
+    },
+    {
+      "name": "ezequiel duran",
+      "fg_id": "23733",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:44:45.572443"
+    },
+    {
+      "name": "donovan solano",
+      "fg_id": "8623",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:44:47.934294"
+    },
+    {
+      "name": "austin wells",
+      "fg_id": "27562",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:44:50.148452"
+    },
+    {
+      "name": "dj lemahieu",
+      "fg_id": "9874",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:44:52.515576"
+    },
+    {
+      "name": "jarred kelenic",
+      "fg_id": "22558",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:44:54.758256"
+    },
+    {
+      "name": "tyrone taylor",
+      "fg_id": "13675",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:44:57.040179"
+    },
+    {
+      "name": "trevor story",
+      "fg_id": "12564",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:44:59.334702"
+    },
+    {
+      "name": "whit merrifield",
+      "fg_id": "11281",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:45:01.686932"
+    },
+    {
+      "name": "nick gonzales",
+      "fg_id": "27490",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:45:03.919778"
+    },
+    {
+      "name": "taylor walls",
+      "fg_id": "22458",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:45:06.177211"
+    },
+    {
+      "name": "edouard julien",
+      "fg_id": "27534",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:45:08.430665"
+    },
+    {
+      "name": "charlie blackmon",
+      "fg_id": "7859",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:45:10.743822"
+    },
+    {
+      "name": "kyle farmer",
+      "fg_id": "14813",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:45:13.008468"
+    },
+    {
+      "name": "brayan rocchio",
+      "fg_id": "23690",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:45:15.298181"
+    },
+    {
+      "name": "matt wallner",
+      "fg_id": "26466",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:45:17.518474"
+    },
+    {
+      "name": "nick fortes",
+      "fg_id": "21538",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:45:19.734744"
+    },
+    {
+      "name": "gio urshela",
+      "fg_id": "10681",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:45:22.081084"
+    },
+    {
+      "name": "carson kelly",
+      "fg_id": "13620",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:45:24.376923"
+    },
+    {
+      "name": "brandon drury",
+      "fg_id": "11615",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:45:26.684467"
+    },
+    {
+      "name": "alex call",
+      "fg_id": "19296",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:45:31.170116"
+    },
+    {
+      "name": "james outman",
+      "fg_id": "24770",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:45:33.405301"
+    },
+    {
+      "name": "travis d'arnaud",
+      "fg_id": "7739",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:45:35.778249"
+    },
+    {
+      "name": "brendan rodgers",
+      "fg_id": "17907",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:45:38.043967"
+    },
+    {
+      "name": "triston casas",
+      "fg_id": "22514",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:45:40.280669"
+    },
+    {
+      "name": "tim anderson",
+      "fg_id": "15172",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:45:44.755176"
+    },
+    {
+      "name": "seth brown",
+      "fg_id": "18171",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:45:47.000245"
+    },
+    {
+      "name": "kyle higashioka",
+      "fg_id": "5517",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:45:49.392552"
+    },
+    {
+      "name": "dylan moore",
+      "fg_id": "18042",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:45:54.115191"
+    },
+    {
+      "name": "rhys hoskins",
+      "fg_id": "16472",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:45:56.422884"
+    },
+    {
+      "name": "jake rogers",
+      "fg_id": "19452",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:45:58.708972"
+    },
+    {
+      "name": "chas mccormick",
+      "fg_id": "19599",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:46:00.993559"
+    },
+    {
+      "name": "jake bauers",
+      "fg_id": "15194",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:46:03.287004"
+    },
+    {
+      "name": "eddie rosario",
+      "fg_id": "12155",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:46:05.610480"
+    },
+    {
+      "name": "edmundo sosa",
+      "fg_id": "17022",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:46:07.864953"
+    },
+    {
+      "name": "junior caminero",
+      "fg_id": "28163",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:46:10.176691"
+    },
+    {
+      "name": "davis schneider",
+      "fg_id": "23565",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:46:12.426472"
+    },
+    {
+      "name": "myles straw",
+      "fg_id": "17620",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:46:14.706219"
+    },
+    {
+      "name": "will brennan",
+      "fg_id": "25660",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:46:16.936318"
+    },
+    {
+      "name": "anthony rizzo",
+      "fg_id": "3473",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:46:19.373293"
+    },
+    {
+      "name": "spencer horwitz",
+      "fg_id": "26477",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:46:21.589038"
+    },
+    {
+      "name": "jesse winker",
+      "fg_id": "13590",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:46:23.913313"
+    },
+    {
+      "name": "oswaldo cabrera",
+      "fg_id": "21707",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:46:26.176479"
+    },
+    {
+      "name": "blake perkins",
+      "fg_id": "19921",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:46:28.433331"
+    },
+    {
+      "name": "dylan carlson",
+      "fg_id": "20126",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:46:32.765649"
+    },
+    {
+      "name": "rob refsnyder",
+      "fg_id": "13770",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:46:35.088843"
+    },
+    {
+      "name": "chris taylor",
+      "fg_id": "13757",
+      "seasons": 16,
+      "timestamp": "2026-02-13T18:46:37.896813"
+    },
+    {
+      "name": "casey schmitt",
+      "fg_id": "27577",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:46:40.114183"
+    },
+    {
+      "name": "jason heyward",
+      "fg_id": "4940",
+      "seasons": 17,
+      "timestamp": "2026-02-13T18:46:42.497465"
+    },
+    {
+      "name": "noelvi marte",
+      "fg_id": "26517",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:46:46.817556"
+    },
+    {
+      "name": "emmanuel rivera",
+      "fg_id": "19890",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:46:51.155302"
+    },
+    {
+      "name": "ildemaro vargas",
+      "fg_id": "13324",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:46:53.505209"
+    },
+    {
+      "name": "joey bart",
+      "fg_id": "21524",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:46:55.798876"
+    },
+    {
+      "name": "nicky lopez",
+      "fg_id": "19339",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:47:00.174290"
+    },
+    {
+      "name": "jose trevino",
+      "fg_id": "16725",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:47:02.479067"
+    },
+    {
+      "name": "johan rojas",
+      "fg_id": "24336",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:47:04.727164"
+    },
+    {
+      "name": "kevin kiermaier",
+      "fg_id": "11038",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:47:07.090258"
+    },
+    {
+      "name": "jacob stallings",
+      "fg_id": "13723",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:47:11.589963"
+    },
+    {
+      "name": "matt thaiss",
+      "fg_id": "19318",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:47:13.901533"
+    },
+    {
+      "name": "adam duvall",
+      "fg_id": "10950",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:47:16.354701"
+    },
+    {
+      "name": "david peralta",
+      "fg_id": "2136",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:47:18.695044"
+    },
+    {
+      "name": "kevin newman",
+      "fg_id": "17696",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:47:21.059901"
+    },
+    {
+      "name": "manuel margot",
+      "fg_id": "14712",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:47:23.346887"
+    },
+    {
+      "name": "pavin smith",
+      "fg_id": "19892",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:47:25.627742"
+    },
+    {
+      "name": "jonathan aranda",
+      "fg_id": "21837",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:47:29.933945"
+    },
+    {
+      "name": "kyle stowers",
+      "fg_id": "26151",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:47:32.321131"
+    },
+    {
+      "name": "robbie grossman",
+      "fg_id": "5254",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:47:34.663518"
+    },
+    {
+      "name": "ryan noda",
+      "fg_id": "23312",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:47:36.956685"
+    },
+    {
+      "name": "david fry",
+      "fg_id": "24934",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:47:39.223213"
+    },
+    {
+      "name": "parker meadows",
+      "fg_id": "23800",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:47:43.665769"
+    },
+    {
+      "name": "romy gonzalez",
+      "fg_id": "21562",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:47:45.890862"
+    },
+    {
+      "name": "kody clemens",
+      "fg_id": "20572",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:47:48.132522"
+    },
+    {
+      "name": "mitch haniger",
+      "fg_id": "14274",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:47:50.424919"
+    },
+    {
+      "name": "abraham toro",
+      "fg_id": "19844",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:47:52.695921"
+    },
+    {
+      "name": "yasmani grandal",
+      "fg_id": "11368",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:47:55.066664"
+    },
+    {
+      "name": "cavan biggio",
+      "fg_id": "19252",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:47:57.390620"
+    },
+    {
+      "name": "jorge mateo",
+      "fg_id": "17273",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:48:01.752524"
+    },
+    {
+      "name": "dominic canzone",
+      "fg_id": "26438",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:48:04.005453"
+    },
+    {
+      "name": "jose iglesias",
+      "fg_id": "10231",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:48:06.364842"
+    },
+    {
+      "name": "jacob wilson",
+      "fg_id": "13254",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:48:08.581715"
+    },
+    {
+      "name": "miguel amaya",
+      "fg_id": "21693",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:48:10.884172"
+    },
+    {
+      "name": "jon berti",
+      "fg_id": "12037",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:48:13.226963"
+    },
+    {
+      "name": "nick senzel",
+      "fg_id": "19293",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:48:15.547969"
+    },
+    {
+      "name": "james mccann",
+      "fg_id": "12859",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:48:17.867452"
+    },
+    {
+      "name": "luis matos",
+      "fg_id": "152",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:48:20.134700"
+    },
+    {
+      "name": "joey gallo",
+      "fg_id": "14128",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:48:22.518156"
+    },
+    {
+      "name": "andruw monasterio",
+      "fg_id": "19455",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:48:24.823813"
+    },
+    {
+      "name": "tyler fitzgerald",
+      "fg_id": "26208",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:48:29.140052"
+    },
+    {
+      "name": "edward olivares",
+      "fg_id": "19698",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:48:31.463997"
+    },
+    {
+      "name": "austin slater",
+      "fg_id": "16153",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:48:34.047503"
+    },
+    {
+      "name": "garrett hampson",
+      "fg_id": "19262",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:48:36.370901"
+    },
+    {
+      "name": "riley adams",
+      "fg_id": "19864",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:48:38.748987"
+    },
+    {
+      "name": "garrett cooper",
+      "fg_id": "15279",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:48:41.111953"
+    },
+    {
+      "name": "esteury ruiz",
+      "fg_id": "21780",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:48:43.421497"
+    },
+    {
+      "name": "drew waters",
+      "fg_id": "20505",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:48:47.774033"
+    },
+    {
+      "name": "elehuris montero",
+      "fg_id": "20543",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:48:50.015669"
+    },
+    {
+      "name": "jake cave",
+      "fg_id": "14477",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:48:52.297082"
+    },
+    {
+      "name": "travis jankowski",
+      "fg_id": "13768",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:48:54.640985"
+    },
+    {
+      "name": "stuart fairchild",
+      "fg_id": "20321",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:48:56.940421"
+    },
+    {
+      "name": "austin hedges",
+      "fg_id": "12976",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:48:59.471050"
+    },
+    {
+      "name": "ben rortvedt",
+      "fg_id": "20287",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:49:01.767426"
+    },
+    {
+      "name": "nathan lukes",
+      "fg_id": "18123",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:49:06.053902"
+    },
+    {
+      "name": "kevin pillar",
+      "fg_id": "12434",
+      "seasons": 16,
+      "timestamp": "2026-02-13T18:49:08.480119"
+    },
+    {
+      "name": "yan gomes",
+      "fg_id": "9627",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:49:10.808863"
+    },
+    {
+      "name": "corey julks",
+      "fg_id": "20311",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:49:13.074141"
+    },
+    {
+      "name": "david hamilton",
+      "fg_id": "27531",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:49:15.343489"
+    },
+    {
+      "name": "dane myers",
+      "fg_id": "22054",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:49:17.573736"
+    },
+    {
+      "name": "jon singleton",
+      "fg_id": "10441",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:49:19.837056"
+    },
+    {
+      "name": "reese mcguire",
+      "fg_id": "15674",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:49:26.305542"
+    },
+    {
+      "name": "jonah bride",
+      "fg_id": "24703",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:49:28.569301"
+    },
+    {
+      "name": "alex kirilloff",
+      "fg_id": "20325",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:49:32.984979"
+    },
+    {
+      "name": "wander franco",
+      "fg_id": "23667",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:49:37.283012"
+    },
+    {
+      "name": "curtis mead",
+      "fg_id": "23986",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:49:41.596258"
+    },
+    {
+      "name": "joshua palacios",
+      "fg_id": "19818",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:49:43.834960"
+    },
+    {
+      "name": "christian bethancourt",
+      "fg_id": "10028",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:49:46.199124"
+    },
+    {
+      "name": "patrick wisdom",
+      "fg_id": "13602",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:49:48.567120"
+    },
+    {
+      "name": "enmanuel valdez",
+      "fg_id": "21716",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:49:50.792184"
+    },
+    {
+      "name": "luis campusano",
+      "fg_id": "22217",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:49:53.057338"
+    },
+    {
+      "name": "joey wiemer",
+      "fg_id": "27690",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:49:55.335762"
+    },
+    {
+      "name": "brett wisely",
+      "fg_id": "27735",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:49:57.605309"
+    },
+    {
+      "name": "korey lee",
+      "fg_id": "25543",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:49:59.893466"
+    },
+    {
+      "name": "evan carter",
+      "fg_id": "27790",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:50:02.192621"
+    },
+    {
+      "name": "oswald peraza",
+      "fg_id": "22823",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:50:04.460849"
+    },
+    {
+      "name": "blaze alexander",
+      "fg_id": "23789",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:50:08.728945"
+    },
+    {
+      "name": "eric haase",
+      "fg_id": "14111",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:50:21.327731"
+    },
+    {
+      "name": "akil baddoo",
+      "fg_id": "22168",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:50:23.589554"
+    },
+    {
+      "name": "nick ahmed",
+      "fg_id": "12147",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:50:25.989468"
+    },
+    {
+      "name": "austin martin",
+      "fg_id": "27462",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:50:28.355603"
+    },
+    {
+      "name": "jace peterson",
+      "fg_id": "12325",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:50:32.773981"
+    },
+    {
+      "name": "miles mastrobuoni",
+      "fg_id": "20017",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:50:35.060949"
+    },
+    {
+      "name": "nick loftin",
+      "fg_id": "27630",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:50:39.365539"
+    },
+    {
+      "name": "andrew knizner",
+      "fg_id": "19514",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:50:41.640819"
+    },
+    {
+      "name": "jonny deluca",
+      "fg_id": "26365",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:50:43.869067"
+    },
+    {
+      "name": "anthony rendon",
+      "fg_id": "12861",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:50:46.263887"
+    },
+    {
+      "name": "tony kemp",
+      "fg_id": "14894",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:50:48.562204"
+    },
+    {
+      "name": "richie palacios",
+      "fg_id": "24589",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:50:50.811878"
+    },
+    {
+      "name": "luis torrens",
+      "fg_id": "15905",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:50:53.769557"
+    },
+    {
+      "name": "luke maile",
+      "fg_id": "13355",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:50:56.238386"
+    },
+    {
+      "name": "elvis andrus",
+      "fg_id": "8709",
+      "seasons": 16,
+      "timestamp": "2026-02-13T18:50:58.573922"
+    },
+    {
+      "name": "brandon belt",
+      "fg_id": "10264",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:51:01.806512"
+    },
+    {
+      "name": "willie calhoun",
+      "fg_id": "17838",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:51:04.271427"
+    },
+    {
+      "name": "brandon crawford",
+      "fg_id": "5343",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:51:08.621724"
+    },
+    {
+      "name": "zack short",
+      "fg_id": "19562",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:51:10.897267"
+    },
+    {
+      "name": "yuli gurriel",
+      "fg_id": "19198",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:51:13.292205"
+    },
+    {
+      "name": "matt carpenter",
+      "fg_id": "8090",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:51:15.791071"
+    },
+    {
+      "name": "tyler nevin",
+      "fg_id": "17893",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:51:20.176859"
+    },
+    {
+      "name": "nick madrigal",
+      "fg_id": "20521",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:51:22.413198"
+    },
+    {
+      "name": "mike moustakas",
+      "fg_id": "4892",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:51:24.762044"
+    },
+    {
+      "name": "aaron hicks",
+      "fg_id": "5297",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:51:27.107925"
+    },
+    {
+      "name": "garrett mitchell",
+      "fg_id": "27555",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:51:29.912411"
+    },
+    {
+      "name": "derek hill",
+      "fg_id": "16947",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:51:32.248629"
+    },
+    {
+      "name": "miguel cabrera",
+      "fg_id": "1744",
+      "seasons": 21,
+      "timestamp": "2026-02-13T18:51:34.700103"
+    },
+    {
+      "name": "nick gordon",
+      "fg_id": "16337",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:51:36.919712"
+    },
+    {
+      "name": "brian anderson",
+      "fg_id": "18289",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:51:41.353093"
+    },
+    {
+      "name": "nick maton",
+      "fg_id": "21635",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:51:45.725389"
+    },
+    {
+      "name": "austin barnes",
+      "fg_id": "12158",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:51:48.052923"
+    },
+    {
+      "name": "nick martini",
+      "fg_id": "12005",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:51:50.340611"
+    },
+    {
+      "name": "nick pratto",
+      "fg_id": "22117",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:51:58.767543"
+    },
+    {
+      "name": "blake sabol",
+      "fg_id": "25805",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:52:01.009223"
+    },
+    {
+      "name": "dominic fletcher",
+      "fg_id": "26149",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:52:03.274031"
+    },
+    {
+      "name": "tyler wade",
+      "fg_id": "15730",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:52:07.655984"
+    },
+    {
+      "name": "michael siani",
+      "fg_id": "22557",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:52:09.900549"
+    },
+    {
+      "name": "darell hernaiz",
+      "fg_id": "26224",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:52:12.147042"
+    },
+    {
+      "name": "jean segura",
+      "fg_id": "5933",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:52:14.442588"
+    },
+    {
+      "name": "joey wendle",
+      "fg_id": "13853",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:52:16.742006"
+    },
+    {
+      "name": "owen miller",
+      "fg_id": "24655",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:52:19.042339"
+    },
+    {
+      "name": "juan yepez",
+      "fg_id": "18400",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:52:21.262973"
+    },
+    {
+      "name": "mike ford",
+      "fg_id": "15585",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:52:23.572712"
+    },
+    {
+      "name": "garrett stubbs",
+      "fg_id": "18067",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:52:25.828169"
+    },
+    {
+      "name": "eduardo escobar",
+      "fg_id": "6153",
+      "seasons": 17,
+      "timestamp": "2026-02-13T18:52:28.198738"
+    },
+    {
+      "name": "luis guillorme",
+      "fg_id": "16451",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:52:30.522894"
+    },
+    {
+      "name": "liover peguero",
+      "fg_id": "24273",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:52:34.862941"
+    },
+    {
+      "name": "sam hilliard",
+      "fg_id": "17954",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:52:37.122321"
+    },
+    {
+      "name": "alan trejo",
+      "fg_id": "20056",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:52:43.470894"
+    },
+    {
+      "name": "jordan diaz",
+      "fg_id": "22650",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:52:49.891204"
+    },
+    {
+      "name": "ronny mauricio",
+      "fg_id": "23698",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:52:52.114559"
+    },
+    {
+      "name": "sam haggerty",
+      "fg_id": "18054",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:52:54.505753"
+    },
+    {
+      "name": "heston kjerstad",
+      "fg_id": "31166",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:52:58.800318"
+    },
+    {
+      "name": "cristian pache",
+      "fg_id": "19948",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:53:01.058200"
+    },
+    {
+      "name": "eli white",
+      "fg_id": "19346",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:53:05.388530"
+    },
+    {
+      "name": "stone garrett",
+      "fg_id": "19273",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:53:07.610454"
+    },
+    {
+      "name": "dairon blanco",
+      "fg_id": "19779",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:53:09.844722"
+    },
+    {
+      "name": "harold castro",
+      "fg_id": "14691",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:53:12.115264"
+    },
+    {
+      "name": "trey mancini",
+      "fg_id": "15149",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:53:14.416234"
+    },
+    {
+      "name": "rodolfo castro",
+      "fg_id": "21987",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:53:20.778933"
+    },
+    {
+      "name": "austin wynns",
+      "fg_id": "15271",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:53:23.080485"
+    },
+    {
+      "name": "alex jackson",
+      "fg_id": "17276",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:53:25.339049"
+    },
+    {
+      "name": "kolten wong",
+      "fg_id": "12532",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:53:27.740697"
+    },
+    {
+      "name": "pablo reyes",
+      "fg_id": "16357",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:53:30.027533"
+    },
+    {
+      "name": "joey votto",
+      "fg_id": "4314",
+      "seasons": 18,
+      "timestamp": "2026-02-13T18:53:32.384046"
+    },
+    {
+      "name": "evan longoria",
+      "fg_id": "9368",
+      "seasons": 16,
+      "timestamp": "2026-02-13T18:53:35.213732"
+    },
+    {
+      "name": "alexander canario",
+      "fg_id": "22842",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:53:39.502771"
+    },
+    {
+      "name": "matt mervis",
+      "fg_id": "27845",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:53:43.819280"
+    },
+    {
+      "name": "weston wilson",
+      "fg_id": "19358",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:53:50.236421"
+    },
+    {
+      "name": "curt casali",
+      "fg_id": "12510",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:53:52.591071"
+    },
+    {
+      "name": "tucupita marcano",
+      "fg_id": "22871",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:53:54.825268"
+    },
+    {
+      "name": "tucker barnhart",
+      "fg_id": "10200",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:53:57.111816"
+    },
+    {
+      "name": "danny mendick",
+      "fg_id": "18889",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:54:09.834207"
+    },
+    {
+      "name": "matt duffy",
+      "fg_id": "12181",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:54:12.060524"
+    },
+    {
+      "name": "alika williams",
+      "fg_id": "27604",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:54:14.281438"
+    },
+    {
+      "name": "christian arroyo",
+      "fg_id": "16434",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:54:23.747134"
+    },
+    {
+      "name": "kyren paris",
+      "fg_id": "26420",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:54:26.079610"
+    },
+    {
+      "name": "michael stefanic",
+      "fg_id": "25353",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:54:30.442857"
+    },
+    {
+      "name": "vaughn grissom",
+      "fg_id": "26031",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:54:32.654607"
+    },
+    {
+      "name": "seby zavala",
+      "fg_id": "18887",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:54:34.914020"
+    },
+    {
+      "name": "taylor trammell",
+      "fg_id": "19960",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:54:39.229069"
+    },
+    {
+      "name": "josh donaldson",
+      "fg_id": "5038",
+      "seasons": 15,
+      "timestamp": "2026-02-13T18:54:43.633062"
+    },
+    {
+      "name": "jason delay",
+      "fg_id": "19806",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:54:45.921489"
+    },
+    {
+      "name": "daz cameron",
+      "fg_id": "18353",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:54:48.156537"
+    },
+    {
+      "name": "graham pauley",
+      "fg_id": "31363",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:54:50.408576"
+    },
+    {
+      "name": "estevan florial",
+      "fg_id": "19151",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:54:56.829467"
+    },
+    {
+      "name": "sean bouchard",
+      "fg_id": "21270",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:54:59.081598"
+    },
+    {
+      "name": "trayce thompson",
+      "fg_id": "9952",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:55:01.390988"
+    },
+    {
+      "name": "jared walsh",
+      "fg_id": "18607",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:55:05.789008"
+    },
+    {
+      "name": "everson pereira",
+      "fg_id": "23695",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:55:10.122896"
+    },
+    {
+      "name": "jake alu",
+      "fg_id": "25569",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:55:12.356376"
+    },
+    {
+      "name": "jerar encarnacion",
+      "fg_id": "21871",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:55:14.596775"
+    },
+    {
+      "name": "kole calhoun",
+      "fg_id": "11200",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:55:23.095148"
+    },
+    {
+      "name": "tyler heineman",
+      "fg_id": "13897",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:55:25.465955"
+    },
+    {
+      "name": "chad wallach",
+      "fg_id": "17161",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:55:27.736240"
+    },
+    {
+      "name": "raimel tapia",
+      "fg_id": "14350",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:55:32.102513"
+    },
+    {
+      "name": "yohel pozo",
+      "fg_id": "18848",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:55:34.316580"
+    },
+    {
+      "name": "zach remillard",
+      "fg_id": "19788",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:55:36.550841"
+    },
+    {
+      "name": "rougned odor",
+      "fg_id": "12282",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:55:43.085703"
+    },
+    {
+      "name": "kyle mccann",
+      "fg_id": "25575",
+      "seasons": 1,
+      "timestamp": "2026-02-13T18:55:45.314494"
+    },
+    {
+      "name": "bryce johnson",
+      "fg_id": "20002",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:55:47.551149"
+    },
+    {
+      "name": "austin nola",
+      "fg_id": "15941",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:55:54.051834"
+    },
+    {
+      "name": "nelson cruz",
+      "fg_id": "554",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:55:58.376449"
+    },
+    {
+      "name": "corey dickerson",
+      "fg_id": "10762",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:56:00.683554"
+    },
+    {
+      "name": "david hensley",
+      "fg_id": "25111",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:56:02.914134"
+    },
+    {
+      "name": "jonathan schoop",
+      "fg_id": "11265",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:56:05.237191"
+    },
+    {
+      "name": "jahmai jones",
+      "fg_id": "18872",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:56:09.558318"
+    },
+    {
+      "name": "cam gallagher",
+      "fg_id": "12981",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:56:11.802956"
+    },
+    {
+      "name": "trey cabbage",
+      "fg_id": "21078",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:56:18.167797"
+    },
+    {
+      "name": "billy mckinney",
+      "fg_id": "15654",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:56:20.470902"
+    },
+    {
+      "name": "bobby dalbec",
+      "fg_id": "19966",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:56:24.818212"
+    },
+    {
+      "name": "kevin smith",
+      "fg_id": "20242",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:56:27.094773"
+    },
+    {
+      "name": "nate eaton",
+      "fg_id": "25055",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:56:29.411495"
+    },
+    {
+      "name": "jacob amaya",
+      "fg_id": "23296",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:56:31.611036"
+    },
+    {
+      "name": "wil myers",
+      "fg_id": "10047",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:56:33.900943"
+    },
+    {
+      "name": "david villar",
+      "fg_id": "24782",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:56:36.242412"
+    },
+    {
+      "name": "mike zunino",
+      "fg_id": "13265",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:56:38.531293"
+    },
+    {
+      "name": "ryan mckenna",
+      "fg_id": "19928",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:56:40.798838"
+    },
+    {
+      "name": "matthew batten",
+      "fg_id": "20157",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:56:43.019896"
+    },
+    {
+      "name": "rafael ortega",
+      "fg_id": "10323",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:56:47.377695"
+    },
+    {
+      "name": "alfonso rivas",
+      "fg_id": "21560",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:56:58.047047"
+    },
+    {
+      "name": "drew millas",
+      "fg_id": "25643",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:57:08.549362"
+    },
+    {
+      "name": "josh harrison",
+      "fg_id": "8202",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:57:12.948086"
+    },
+    {
+      "name": "yu chang",
+      "fg_id": "14773",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:57:15.224894"
+    },
+    {
+      "name": "vinny capra",
+      "fg_id": "25040",
+      "seasons": 6,
+      "timestamp": "2026-02-13T18:57:31.888591"
+    },
+    {
+      "name": "cooper hummel",
+      "fg_id": "19458",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:57:36.311783"
+    },
+    {
+      "name": "jonathan davis",
+      "fg_id": "15104",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:57:38.602480"
+    },
+    {
+      "name": "oliver dunn",
+      "fg_id": "26295",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:57:40.821134"
+    },
+    {
+      "name": "cade marlowe",
+      "fg_id": "25505",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:57:43.035698"
+    },
+    {
+      "name": "eric hosmer",
+      "fg_id": "3516",
+      "seasons": 14,
+      "timestamp": "2026-02-13T18:57:45.408683"
+    },
+    {
+      "name": "luken baker",
+      "fg_id": "21497",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:57:47.645998"
+    },
+    {
+      "name": "ben gamel",
+      "fg_id": "12160",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:57:50.007032"
+    },
+    {
+      "name": "david fletcher",
+      "fg_id": "17992",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:57:56.387941"
+    },
+    {
+      "name": "michael chavis",
+      "fg_id": "17321",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:58:00.774077"
+    },
+    {
+      "name": "osleivis basabe",
+      "fg_id": "23985",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:58:02.997602"
+    },
+    {
+      "name": "carter kieboom",
+      "fg_id": "19958",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:58:05.257565"
+    },
+    {
+      "name": "andrew velazquez",
+      "fg_id": "14196",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:58:07.529203"
+    },
+    {
+      "name": "hunter dozier",
+      "fg_id": "15117",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:58:09.877090"
+    },
+    {
+      "name": "jordan luplow",
+      "fg_id": "16424",
+      "seasons": 12,
+      "timestamp": "2026-02-13T18:58:14.239519"
+    },
+    {
+      "name": "hanser alberto",
+      "fg_id": "11902",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:58:16.521909"
+    },
+    {
+      "name": "tristan gray",
+      "fg_id": "19877",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:58:20.803050"
+    },
+    {
+      "name": "conner capel",
+      "fg_id": "19983",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:58:23.040038"
+    },
+    {
+      "name": "brandon dixon",
+      "fg_id": "15214",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:58:25.268873"
+    },
+    {
+      "name": "brett sullivan",
+      "fg_id": "18217",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:58:27.466162"
+    },
+    {
+      "name": "henry ramos",
+      "fg_id": "11481",
+      "seasons": 4,
+      "timestamp": "2026-02-13T18:58:29.791226"
+    },
+    {
+      "name": "jake marisnick",
+      "fg_id": "11339",
+      "seasons": 16,
+      "timestamp": "2026-02-13T18:58:34.517506"
+    },
+    {
+      "name": "taylor motter",
+      "fg_id": "12399",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:58:36.808249"
+    },
+    {
+      "name": "marco luciano",
+      "fg_id": "25616",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:58:39.028819"
+    },
+    {
+      "name": "yonathan daza",
+      "fg_id": "15794",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:58:41.303353"
+    },
+    {
+      "name": "mike brosseau",
+      "fg_id": "19683",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:58:43.552465"
+    },
+    {
+      "name": "jorge barrosa",
+      "fg_id": "23968",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:58:51.990329"
+    },
+    {
+      "name": "chuckie robinson",
+      "fg_id": "19824",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:58:54.339895"
+    },
+    {
+      "name": "bligh madris",
+      "fg_id": "20054",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:59:02.785260"
+    },
+    {
+      "name": "luke voit",
+      "fg_id": "14811",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:59:05.064165"
+    },
+    {
+      "name": "jordan lawlar",
+      "fg_id": "29976",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:59:09.346898"
+    },
+    {
+      "name": "matt beaty",
+      "fg_id": "17710",
+      "seasons": 7,
+      "timestamp": "2026-02-13T18:59:13.677795"
+    },
+    {
+      "name": "mark mathias",
+      "fg_id": "18032",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:59:20.133476"
+    },
+    {
+      "name": "franchy cordero",
+      "fg_id": "14567",
+      "seasons": 8,
+      "timestamp": "2026-02-13T18:59:22.423102"
+    },
+    {
+      "name": "brett phillips",
+      "fg_id": "14735",
+      "seasons": 11,
+      "timestamp": "2026-02-13T18:59:26.793854"
+    },
+    {
+      "name": "brian serven",
+      "fg_id": "19422",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:59:29.024187"
+    },
+    {
+      "name": "samad taylor",
+      "fg_id": "22274",
+      "seasons": 3,
+      "timestamp": "2026-02-13T18:59:35.472652"
+    },
+    {
+      "name": "tim locastro",
+      "fg_id": "15124",
+      "seasons": 9,
+      "timestamp": "2026-02-13T18:59:39.816516"
+    },
+    {
+      "name": "braden shewmake",
+      "fg_id": "25817",
+      "seasons": 2,
+      "timestamp": "2026-02-13T18:59:42.029635"
+    },
+    {
+      "name": "brad miller",
+      "fg_id": "12775",
+      "seasons": 13,
+      "timestamp": "2026-02-13T18:59:44.323307"
+    },
+    {
+      "name": "jason vosler",
+      "fg_id": "16686",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:59:50.717215"
+    },
+    {
+      "name": "franmil reyes",
+      "fg_id": "14566",
+      "seasons": 10,
+      "timestamp": "2026-02-13T18:59:55.802803"
+    },
+    {
+      "name": "ryan kreidler",
+      "fg_id": "25867",
+      "seasons": 5,
+      "timestamp": "2026-02-13T18:59:58.043364"
+    },
+    {
+      "name": "david dahl",
+      "fg_id": "13744",
+      "seasons": 7,
+      "timestamp": "2026-02-13T19:00:02.603035"
+    },
+    {
+      "name": "bubba thompson",
+      "fg_id": "22261",
+      "seasons": 3,
+      "timestamp": "2026-02-13T19:00:06.985342"
+    },
+    {
+      "name": "sam huff",
+      "fg_id": "22209",
+      "seasons": 7,
+      "timestamp": "2026-02-13T19:00:09.233073"
+    },
+    {
+      "name": "mason mccoy",
+      "fg_id": "22232",
+      "seasons": 3,
+      "timestamp": "2026-02-13T19:00:13.592372"
+    },
+    {
+      "name": "michael brantley",
+      "fg_id": "4106",
+      "seasons": 15,
+      "timestamp": "2026-02-13T19:00:16.169154"
+    },
+    {
+      "name": "daniel johnson",
+      "fg_id": "19643",
+      "seasons": 6,
+      "timestamp": "2026-02-13T19:00:20.547508"
+    },
+    {
+      "name": "darin ruf",
+      "fg_id": "9929",
+      "seasons": 14,
+      "timestamp": "2026-02-13T19:00:22.927254"
+    },
+    {
+      "name": "eguy rosario",
+      "fg_id": "19964",
+      "seasons": 5,
+      "timestamp": "2026-02-13T19:00:27.270625"
+    },
+    {
+      "name": "cole tucker",
+      "fg_id": "17326",
+      "seasons": 7,
+      "timestamp": "2026-02-13T19:00:29.569288"
+    },
+    {
+      "name": "terrin vavra",
+      "fg_id": "24400",
+      "seasons": 5,
+      "timestamp": "2026-02-13T19:00:31.803901"
+    },
+    {
+      "name": "darick hall",
+      "fg_id": "19717",
+      "seasons": 2,
+      "timestamp": "2026-02-13T19:00:34.085197"
+    },
+    {
+      "name": "kyle lewis",
+      "fg_id": "19508",
+      "seasons": 5,
+      "timestamp": "2026-02-13T19:00:36.329918"
+    },
+    {
+      "name": "jake lamb",
+      "fg_id": "13329",
+      "seasons": 13,
+      "timestamp": "2026-02-13T19:00:38.691957"
+    },
+    {
+      "name": "chadwick tromp",
+      "fg_id": "16953",
+      "seasons": 7,
+      "timestamp": "2026-02-13T19:00:40.994028"
+    },
+    {
+      "name": "jorge alfaro",
+      "fg_id": "12180",
+      "seasons": 10,
+      "timestamp": "2026-02-13T19:00:49.511688"
+    },
+    {
+      "name": "luke williams",
+      "fg_id": "19931",
+      "seasons": 7,
+      "timestamp": "2026-02-13T19:00:51.832365"
+    },
+    {
+      "name": "austin shenton",
+      "fg_id": "25425",
+      "seasons": 1,
+      "timestamp": "2026-02-13T19:00:56.403531"
+    }
+  ],
+  "failed": [
+    {
+      "name": "nolan schanuel",
+      "fg_id": "33189",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 197, 'season': 2021, 'team': 'Florida Atlantic University', 'games': 55, 'pa': 244, 'ab': 198, 'hits': 68, 'doubles': 11, 'triples': 1, 'hr': 11, 'rbi': 56, 'bb': 28, 'so': 21, 'avg': 0.343434, 'obp': 0.444444, 'slg': 0.575758, 'woba': 0.450982, 'wrc_plus': 147, 'babip': 0.333333, 'bb_pct': 0.114754, 'k_pct': 0.0860656, 'iso': 0.232323, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:41:16.665694"
+    },
+    {
+      "name": "wyatt langford",
+      "fg_id": "33333",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 226, 'season': 2021, 'team': 'University of Florida', 'games': 4, 'pa': 4, 'ab': 4, 'hits': 1, 'doubles': 0, 'triples': 0, 'hr': 0, 'rbi': 0, 'bb': 0, 'so': 1, 'avg': 0.25, 'obp': 0.25, 'slg': 0.25, 'woba': 0.230516, 'wrc_plus': 26, 'babip': 0.333333, 'bb_pct': 0.0, 'k_pct': 0.25, 'iso': 0.0, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:42:26.351235"
+    },
+    {
+      "name": "andy pages",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:43:12.573261"
+    },
+    {
+      "name": "james wood",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:43:47.329274"
+    },
+    {
+      "name": "jacob young",
+      "fg_id": "29931",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 262, 'season': 2021, 'team': 'University of Florida', 'games': 60, 'pa': 292, 'ab': 254, 'hits': 80, 'doubles': 16, 'triples': 3, 'hr': 5, 'rbi': 41, 'bb': 27, 'so': 45, 'avg': 0.314961, 'obp': 0.38488, 'slg': 0.46063, 'woba': 0.379776, 'wrc_plus': 107, 'babip': 0.358852, 'bb_pct': 0.0924658, 'k_pct': 0.15411, 'iso': 0.145669, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:43:54.039154"
+    },
+    {
+      "name": "colton cowser",
+      "fg_id": "29591",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 264, 'season': 2021, 'team': 'Sam Houston State University', 'games': 55, 'pa': 253, 'ab': 203, 'hits': 76, 'doubles': 10, 'triples': 2, 'hr': 16, 'rbi': 52, 'bb': 42, 'so': 32, 'avg': 0.374384, 'obp': 0.490119, 'slg': 0.679803, 'woba': 0.523714, 'wrc_plus': 204, 'babip': 0.382166, 'bb_pct': 0.166008, 'k_pct': 0.126482, 'iso': 0.305419, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:43:58.486036"
+    },
+    {
+      "name": "matt mclain",
+      "fg_id": "29695",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 268, 'season': 2021, 'team': 'University of California Los Angeles', 'games': 47, 'pa': 226, 'ab': 183, 'hits': 61, 'doubles': 14, 'triples': 2, 'hr': 9, 'rbi': 36, 'bb': 34, 'so': 34, 'avg': 0.333333, 'obp': 0.433628, 'slg': 0.579235, 'woba': 0.447411, 'wrc_plus': 142, 'babip': 0.356164, 'bb_pct': 0.150442, 'k_pct': 0.150442, 'iso': 0.245902, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:44:07.473715"
+    },
+    {
+      "name": "zack gelof",
+      "fg_id": "29766",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 282, 'season': 2021, 'team': 'University of Virginia', 'games': 63, 'pa': 299, 'ab': 260, 'hits': 81, 'doubles': 18, 'triples': 0, 'hr': 9, 'rbi': 41, 'bb': 32, 'so': 40, 'avg': 0.311538, 'obp': 0.392617, 'slg': 0.484615, 'woba': 0.393168, 'wrc_plus': 117, 'babip': 0.338028, 'bb_pct': 0.107023, 'k_pct': 0.133779, 'iso': 0.173077, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:44:41.093996"
+    },
+    {
+      "name": "hunter goodman",
+      "fg_id": "29715",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 303, 'season': 2021, 'team': 'University of Memphis', 'games': 56, 'pa': 242, 'ab': 202, 'hits': 62, 'doubles': 10, 'triples': 1, 'hr': 21, 'rbi': 51, 'bb': 30, 'so': 53, 'avg': 0.306931, 'obp': 0.400826, 'slg': 0.678218, 'woba': 0.454627, 'wrc_plus': 154, 'babip': 0.308271, 'bb_pct': 0.123967, 'k_pct': 0.219008, 'iso': 0.371287, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:45:28.877233"
+    },
+    {
+      "name": "jackson holliday",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:45:42.345690"
+    },
+    {
+      "name": "nick allen",
+      "fg_id": "1000155",
+      "error": "'gb_pct'",
+      "timestamp": "2026-02-13T18:45:51.558813"
+    },
+    {
+      "name": "jordan beck",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:46:30.489256"
+    },
+    {
+      "name": "addison barger",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:46:44.553597"
+    },
+    {
+      "name": "brooks lee",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:46:48.879903"
+    },
+    {
+      "name": "ben rice",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:46:57.855736"
+    },
+    {
+      "name": "kyle manzardo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:47:09.175304"
+    },
+    {
+      "name": "max schuemann",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:47:27.694926"
+    },
+    {
+      "name": "henry davis",
+      "fg_id": "29617",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 354, 'season': 2021, 'team': 'University of Louisville', 'games': 50, 'pa': 228, 'ab': 184, 'hits': 68, 'doubles': 9, 'triples': 0, 'hr': 15, 'rbi': 48, 'bb': 31, 'so': 24, 'avg': 0.369565, 'obp': 0.482456, 'slg': 0.663043, 'woba': 0.495191, 'wrc_plus': 177, 'babip': 0.360544, 'bb_pct': 0.135965, 'k_pct': 0.105263, 'iso': 0.293478, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:47:41.425222"
+    },
+    {
+      "name": "daniel schneemann",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:47:59.452341"
+    },
+    {
+      "name": "eric wagaman",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:48:26.886021"
+    },
+    {
+      "name": "dillon dingler",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:48:45.479583"
+    },
+    {
+      "name": "connor norby",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:49:03.831201"
+    },
+    {
+      "name": "caleb durbin",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:49:21.913261"
+    },
+    {
+      "name": "chase meidroth",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:49:23.973168"
+    },
+    {
+      "name": "christian encarnacion-strand",
+      "fg_id": "30011",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 396, 'season': 2021, 'team': 'Oklahoma State University', 'games': 56, 'pa': 267, 'ab': 227, 'hits': 82, 'doubles': 17, 'triples': 3, 'hr': 15, 'rbi': 66, 'bb': 20, 'so': 50, 'avg': 0.361233, 'obp': 0.441948, 'slg': 0.660793, 'woba': 0.480154, 'wrc_plus': 154, 'babip': 0.403614, 'bb_pct': 0.0749064, 'k_pct': 0.187266, 'iso': 0.299559, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:49:30.765494"
+    },
+    {
+      "name": "cam smith",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:49:35.048014"
+    },
+    {
+      "name": "nick kurtz",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:49:39.340712"
+    },
+    {
+      "name": "dylan crews",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:06.522251"
+    },
+    {
+      "name": "brooks baldwin",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:10.795423"
+    },
+    {
+      "name": "drake baldwin",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:12.858733"
+    },
+    {
+      "name": "trey sweeney",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:14.919656"
+    },
+    {
+      "name": "isaac collins",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:16.994871"
+    },
+    {
+      "name": "chandler simpson",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:19.052294"
+    },
+    {
+      "name": "matt shaw",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:30.417856"
+    },
+    {
+      "name": "jake mangum",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:50:37.137838"
+    },
+    {
+      "name": "edgar quero",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:06.329487"
+    },
+    {
+      "name": "liam hicks",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:17.859495"
+    },
+    {
+      "name": "joey loperfido",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:38.992303"
+    },
+    {
+      "name": "justyn-henry malloy",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:43.431305"
+    },
+    {
+      "name": "daylen lile",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:52.399497"
+    },
+    {
+      "name": "jhonkensy noel",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:54.453516"
+    },
+    {
+      "name": "thomas saggese",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:51:56.515938"
+    },
+    {
+      "name": "javier sanoja",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:05.342109"
+    },
+    {
+      "name": "roman anthony",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:32.586212"
+    },
+    {
+      "name": "kyle teel",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:39.185693"
+    },
+    {
+      "name": "ben williamson",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:41.244711"
+    },
+    {
+      "name": "coby mayo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:45.572317"
+    },
+    {
+      "name": "heriberto hernandez",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:47.639766"
+    },
+    {
+      "name": "colson montgomery",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:52:56.572714"
+    },
+    {
+      "name": "brady house",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:03.124034"
+    },
+    {
+      "name": "kristian campbell",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:16.471641"
+    },
+    {
+      "name": "cole young",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:18.537226"
+    },
+    {
+      "name": "will wagner",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:37.276698"
+    },
+    {
+      "name": "jakob marsee",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:41.567290"
+    },
+    {
+      "name": "jac caglianone",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:45.888136"
+    },
+    {
+      "name": "tim tawa",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:47.947752"
+    },
+    {
+      "name": "otto kemp",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:53:59.186081"
+    },
+    {
+      "name": "adrian del castillo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:01.244189"
+    },
+    {
+      "name": "kameron misner",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:03.308940"
+    },
+    {
+      "name": "trey lipscomb",
+      "fg_id": "31567",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 484, 'season': 2021, 'team': 'University of Tennessee Knoxville', 'games': 14, 'pa': 34, 'ab': 29, 'hits': 9, 'doubles': 3, 'triples': 0, 'hr': 1, 'rbi': 9, 'bb': 4, 'so': 6, 'avg': 0.310345, 'obp': 0.411765, 'slg': 0.517241, 'woba': 0.415998, 'wrc_plus': 126, 'babip': 0.363636, 'bb_pct': 0.117647, 'k_pct': 0.176471, 'iso': 0.206897, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T18:54:05.515319"
+    },
+    {
+      "name": "leo jimenez",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:07.571242"
+    },
+    {
+      "name": "brett harris",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:16.337124"
+    },
+    {
+      "name": "luke keaschall",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:18.401287"
+    },
+    {
+      "name": "ryan ritter",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:20.491567"
+    },
+    {
+      "name": "leo rivas",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:28.142752"
+    },
+    {
+      "name": "christian koss",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:36.973869"
+    },
+    {
+      "name": "nick sogard",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:41.284882"
+    },
+    {
+      "name": "christian moore",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:52.468340"
+    },
+    {
+      "name": "jeremiah jackson",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:54:54.548201"
+    },
+    {
+      "name": "jonatan clase",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:03.452790"
+    },
+    {
+      "name": "alejandro osuna",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:07.889455"
+    },
+    {
+      "name": "griffin conine",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:16.657425"
+    },
+    {
+      "name": "john rave",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:18.717567"
+    },
+    {
+      "name": "zach dezenzo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:20.789749"
+    },
+    {
+      "name": "hyeseong kim",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:29.799699"
+    },
+    {
+      "name": "denzel clarke",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:38.619501"
+    },
+    {
+      "name": "tom murphy",
+      "fg_id": "1009376",
+      "error": "'gb_pct'",
+      "timestamp": "2026-02-13T18:55:40.795582"
+    },
+    {
+      "name": "kyle karros",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:49.624541"
+    },
+    {
+      "name": "dalton rushing",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:51.693180"
+    },
+    {
+      "name": "alan roden",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:55:56.118030"
+    },
+    {
+      "name": "bryce teodosio",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:07.294342"
+    },
+    {
+      "name": "jace jung",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:13.870230"
+    },
+    {
+      "name": "brandon lockridge",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:15.925752"
+    },
+    {
+      "name": "warming bernabel",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:22.539325"
+    },
+    {
+      "name": "dylan beavers",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:45.097310"
+    },
+    {
+      "name": "marcelo mayer",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:49.487674"
+    },
+    {
+      "name": "colby thomas",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:51.569869"
+    },
+    {
+      "name": "grant mccray",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:53.645158"
+    },
+    {
+      "name": "adael amador",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:56:55.746032"
+    },
+    {
+      "name": "cody freeman",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:00.114012"
+    },
+    {
+      "name": "troy johnston",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:02.192802"
+    },
+    {
+      "name": "braxton fulford",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:04.262013"
+    },
+    {
+      "name": "samuel basallo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:06.319512"
+    },
+    {
+      "name": "tyler locklear",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:10.610000"
+    },
+    {
+      "name": "willie maciver",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:17.291968"
+    },
+    {
+      "name": "mickey gasper",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:19.349627"
+    },
+    {
+      "name": "michael helman",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:21.415129"
+    },
+    {
+      "name": "drew gilbert",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:23.470506"
+    },
+    {
+      "name": "bryan ramos",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:25.535341"
+    },
+    {
+      "name": "niko kavadas",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:27.595160"
+    },
+    {
+      "name": "carson williams",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:29.658158"
+    },
+    {
+      "name": "hunter feduccia",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:33.942419"
+    },
+    {
+      "name": "carlos cortes",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:52.075965"
+    },
+    {
+      "name": "aaron schunk",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:54.140753"
+    },
+    {
+      "name": "alex freeland",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:57:58.449103"
+    },
+    {
+      "name": "will wilson",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:11.940161"
+    },
+    {
+      "name": "ronny simon",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:18.582424"
+    },
+    {
+      "name": "bob seymour",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:31.853912"
+    },
+    {
+      "name": "hayden senger",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:45.621063"
+    },
+    {
+      "name": "jacob melton",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:47.680855"
+    },
+    {
+      "name": "jhonny pereda",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:49.751292"
+    },
+    {
+      "name": "will robertson",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:56.411151"
+    },
+    {
+      "name": "zach deloach",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:58:58.483820"
+    },
+    {
+      "name": "blake dunn",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:00.547352"
+    },
+    {
+      "name": "blaine crim",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:07.130526"
+    },
+    {
+      "name": "anthony seigler",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:11.406838"
+    },
+    {
+      "name": "nick yorke",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:15.736296"
+    },
+    {
+      "name": "tim elko",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:17.799144"
+    },
+    {
+      "name": "ryan bliss",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:24.480162"
+    },
+    {
+      "name": "matthew lugo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:31.109256"
+    },
+    {
+      "name": "carter jensen",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:33.171603"
+    },
+    {
+      "name": "jacob hurtubise",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:37.530004"
+    },
+    {
+      "name": "jorbit vivas",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:46.396113"
+    },
+    {
+      "name": "gustavo campero",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:48.473752"
+    },
+    {
+      "name": "nathan church",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T18:59:52.806156"
+    },
+    {
+      "name": "wade meckler",
+      "fg_id": "31490",
+      "error": "(psycopg2.errors.StringDataRightTruncation) value too long for type character varying(20)\n\n[SQL: \n                        INSERT INTO season_stats (\n                            player_id, season, team, games, pa, ab, hits,\n                            doubles, triples, hr, rbi, bb, so,\n                            avg, obp, slg, woba, wrc_plus, babip,\n                            bb_pct, k_pct, iso, gb_pct, fb_pct, ld_pct, hr_fb_pct\n                        ) VALUES (\n                            %(player_id)s, %(season)s, %(team)s, %(games)s, %(pa)s, %(ab)s, %(hits)s,\n                            %(doubles)s, %(triples)s, %(hr)s, %(rbi)s, %(bb)s, %(so)s,\n                            %(avg)s, %(obp)s, %(slg)s, %(woba)s, %(wrc_plus)s, %(babip)s,\n                            %(bb_pct)s, %(k_pct)s, %(iso)s, %(gb_pct)s, %(fb_pct)s, %(ld_pct)s, %(hr_fb_pct)s\n                        )\n                    ]\n[parameters: {'player_id': 581, 'season': 2021, 'team': 'Oregon State University', 'games': 49, 'pa': 170, 'ab': 142, 'hits': 43, 'doubles': 10, 'triples': 1, 'hr': 4, 'rbi': 20, 'bb': 19, 'so': 35, 'avg': 0.302817, 'obp': 0.396341, 'slg': 0.471831, 'woba': 0.399495, 'wrc_plus': 115, 'babip': 0.378641, 'bb_pct': 0.111765, 'k_pct': 0.205882, 'iso': 0.169014, 'gb_pct': None, 'fb_pct': None, 'ld_pct': None, 'hr_fb_pct': None}]\n(Background on this error at: https://sqlalche.me/e/20/9h9h)",
+      "timestamp": "2026-02-13T19:00:00.275711"
+    },
+    {
+      "name": "maximo acosta",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:04.680993"
+    },
+    {
+      "name": "sal stewart",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:11.299018"
+    },
+    {
+      "name": "tyler tolbert",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:18.232798"
+    },
+    {
+      "name": "tyler black",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:25.005271"
+    },
+    {
+      "name": "ryan fitzgerald",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:43.067023"
+    },
+    {
+      "name": "drew romo",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:45.126521"
+    },
+    {
+      "name": "zach cole",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:47.190751"
+    },
+    {
+      "name": "rece hinds",
+      "fg_id": "-1",
+      "error": "No data found",
+      "timestamp": "2026-02-13T19:00:53.901018"
+    }
+  ],
+  "remaining": [],
+  "started_at": "2026-02-13T18:37:14.958527",
+  "last_updated": "2026-02-13T19:00:56.403547"
+}
