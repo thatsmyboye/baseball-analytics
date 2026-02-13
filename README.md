@@ -1,2 +1,140 @@
-# baseball-analytics
-New attempt at creating a personal analysis dashboard
+# Baseball Analytics System
+
+A comprehensive MLB player analytics platform with regression detection, performance predictions, and automated insights.
+
+## 🎯 Features
+
+### Analytics Engine
+- **Role Classification** - Categorize players into 9 usage-based roles
+- **Regression Detection** - Identify players due for performance changes across 5 metrics (BABIP, K%, BB%, ISO, HR/FB%)
+- **Advanced Predictions** - Multi-component 2026 projections with aging curves
+- **League Percentiles** - Compare players against MLB baselines
+- **Historical Trends** - Track career trajectories and detect breakouts/declines
+
+### Automation
+- **Daily Updates** - Automated stat refreshes for all players
+- **Alert Digests** - Summarized regression signals with BUY/SELL recommendations
+- **Progress Tracking** - Resume capability for interrupted jobs
+
+## 📊 Database
+
+**Current Stats:**
+- 53 verified MLB players
+- 700+ player-seasons (2015-2025)
+- Comprehensive batting statistics from FanGraphs
+
+**Schema:**
+- `players` - Player metadata with birth dates
+- `season_stats` - Season-level batting statistics
+- `statcast_data` - Reserved for future Statcast integration
+
+## 🚀 Quick Start
+
+### Generate Player Report
+```bash
+python -m src.analytics.player_report
+```
+
+### Run Regression Detection
+```bash
+python -m src.analytics.regression_detector
+```
+
+### Create 2026 Predictions
+```bash
+python -m src.analytics.predictive_model
+```
+
+### Daily Update (All Players)
+```bash
+python -m src.automation.daily_scraper
+```
+
+### Generate Alert Digest
+```bash
+python -m src.automation.alert_digest
+```
+
+## 📁 Project Structure
+```
+baseball-analytics/
+├── src/
+│   ├── analytics/           # Core analytics modules
+│   │   ├── role_classifier.py
+│   │   ├── regression_detector.py
+│   │   ├── league_baselines.py
+│   │   ├── trend_tracker.py
+│   │   ├── predictive_model.py
+│   │   └── player_report.py
+│   ├── automation/          # Daily updates & alerts
+│   │   ├── daily_scraper.py
+│   │   └── alert_digest.py
+│   ├── database/            # Schema & data loading
+│   │   ├── schema.sql
+│   │   └── insert_data.py
+│   ├── scrapers/            # FanGraphs data pipeline
+│   │   ├── fangraphs.py
+│   │   └── batch_scraper.py
+│   ├── utils/               # Database connection
+│   │   └── db_connection.py
+│   └── scripts/             # Maintenance tools
+│       ├── deduplicate_players.py
+│       └── add_birth_dates.py
+└── requirements.txt
+```
+
+## 🔬 Analytics Examples
+
+### Regression Detection Output
+```
+🔴 STRONG SELL CANDIDATES
+  Matt Olson (Braves) - Net: -2
+    🔴 TIER 1 BABIP: BABIP 0.333 is +0.059 above career 0.274
+    🟡 TIER 2 ISO: ISO 0.212 is -0.056 below career 0.268
+
+🟢 STRONG BUY CANDIDATES
+  Anthony Santander (Orioles) - Net: +1
+    🔴 TIER 1 BABIP: BABIP 0.218 is -0.092 below career 0.310
+```
+
+### 2026 Predictions
+```
+ADVANCED PREDICTION: Shohei Ohtani (2026)
+  Projected wRC+: 174 (Range: 164-184)
+  Age Adjustment: -1 (turning 32)
+  Power Sustainability: -5 (unsustainable spike)
+  Regression Signals: +4 (positive indicators)
+  Confidence: HIGH
+```
+
+## 🛠️ Tech Stack
+
+- **Database:** PostgreSQL (Railway)
+- **Language:** Python 3.12
+- **Libraries:** pandas, SQLAlchemy, requests, beautifulsoup4
+- **Data Source:** FanGraphs
+
+## ⚠️ Limitations
+
+- 53 players (manually verified FanGraphs IDs)
+- Batting stats only (no pitching yet)
+- No Statcast data (exit velocity, hard-hit%, etc.)
+- No defensive metrics
+- FanGraphs ID discovery is manual
+
+## 🚀 Future Enhancements
+
+- Baseball Savant integration for Statcast data
+- Pitcher analytics module
+- Web dashboard visualization
+- REST API for data access
+- Advanced ML prediction models
+- Injury risk assessment
+
+## 📝 License
+
+Personal project - not for commercial use
+
+## 🙏 Acknowledgments
+
+Data sourced from FanGraphs.com

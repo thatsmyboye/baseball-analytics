@@ -1,0 +1,669 @@
+{
+  "timestamp": "2026-02-13T13:56:42.748961",
+  "players_updated": [
+    "Aaron Judge",
+    "Adley Rutschman",
+    "Adley Rutschman",
+    "Anthony Santander",
+    "Anthony Santander",
+    "Austin Riley",
+    "Austin Riley",
+    "Bobby Witt Jr.",
+    "Bobby Witt Jr.",
+    "Bryan Reynolds",
+    "Bryan Reynolds",
+    "Cal Raleigh",
+    "Cal Raleigh",
+    "Cedric Mullins",
+    "Cedric Mullins",
+    "Christian Yelich",
+    "Corbin Carroll",
+    "Corbin Carroll",
+    "Corey Seager",
+    "Corey Seager",
+    "Dansby Swanson",
+    "Dansby Swanson",
+    "Fernando Tatis Jr.",
+    "Fernando Tatis Jr.",
+    "Francisco Lindor",
+    "Freddie Freeman",
+    "George Springer",
+    "George Springer",
+    "Giancarlo Stanton",
+    "Gleyber Torres",
+    "Gleyber Torres",
+    "Harrison Bader",
+    "Ian Happ",
+    "Ian Happ",
+    "Jazz Chisholm Jr.",
+    "Jazz Chisholm Jr.",
+    "Jesse Winker",
+    "Jesse Winker",
+    "Jose Altuve",
+    "Jose Ramirez",
+    "J.T. Realmuto",
+    "Juan Soto",
+    "Juan Soto",
+    "Julio Rodriguez",
+    "Julio Rodriguez",
+    "Ketel Marte",
+    "Ketel Marte",
+    "Kris Bryant",
+    "Kyle Schwarber",
+    "Kyle Schwarber",
+    "Kyle Tucker",
+    "Kyle Tucker",
+    "Marcus Semien",
+    "Marcus Semien",
+    "Matt Olson",
+    "Matt Olson",
+    "Michael Harris II",
+    "Michael Harris II",
+    "Mike Trout",
+    "Mookie Betts",
+    "Nolan Arenado",
+    "Ozzie Albies",
+    "Ozzie Albies",
+    "Paul Goldschmidt",
+    "Paul Goldschmidt",
+    "Pete Alonso",
+    "Rafael Devers",
+    "Randy Arozarena",
+    "Randy Arozarena",
+    "Ronald Acuna Jr.",
+    "Salvador Perez",
+    "Salvador Perez",
+    "Shohei Ohtani",
+    "Steven Kwan",
+    "Steven Kwan",
+    "Teoscar Hernandez",
+    "Teoscar Hernandez",
+    "Trea Turner",
+    "Trea Turner",
+    "Vladimir Guerrero Jr.",
+    "Will Smith",
+    "Will Smith",
+    "Yordan Alvarez",
+    "Yordan Alvarez"
+  ],
+  "new_alerts": [
+    {
+      "player": "Aaron Judge",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.376 is +0.044 from career 0.332"
+        },
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.357 is +0.059 from career 0.298"
+        }
+      ]
+    },
+    {
+      "player": "Anthony Santander",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.218 is -0.092 from career 0.310"
+        }
+      ]
+    },
+    {
+      "player": "Anthony Santander",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.218 is -0.092 from career 0.310"
+        }
+      ]
+    },
+    {
+      "player": "Austin Riley",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.168 is -0.056 from career 0.224"
+        }
+      ]
+    },
+    {
+      "player": "Austin Riley",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.168 is -0.056 from career 0.224"
+        }
+      ]
+    },
+    {
+      "player": "Cal Raleigh",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.342 is +0.130 from career 0.212"
+        }
+      ]
+    },
+    {
+      "player": "Cal Raleigh",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.342 is +0.130 from career 0.212"
+        }
+      ]
+    },
+    {
+      "player": "Corbin Carroll",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.282 is +0.063 from career 0.219"
+        }
+      ]
+    },
+    {
+      "player": "Corbin Carroll",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.282 is +0.063 from career 0.219"
+        }
+      ]
+    },
+    {
+      "player": "Dansby Swanson",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.255 is -0.036 from career 0.291"
+        }
+      ]
+    },
+    {
+      "player": "Dansby Swanson",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.255 is -0.036 from career 0.291"
+        }
+      ]
+    },
+    {
+      "player": "Fernando Tatis Jr.",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.178 is -0.082 from career 0.260"
+        }
+      ]
+    },
+    {
+      "player": "Fernando Tatis Jr.",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.178 is -0.082 from career 0.260"
+        }
+      ]
+    },
+    {
+      "player": "George Springer",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.340 is +0.047 from career 0.293"
+        }
+      ]
+    },
+    {
+      "player": "George Springer",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.340 is +0.047 from career 0.293"
+        }
+      ]
+    },
+    {
+      "player": "Giancarlo Stanton",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.321 is +0.058 from career 0.263"
+        }
+      ]
+    },
+    {
+      "player": "Harrison Bader",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.415 is +0.117 from career 0.298"
+        }
+      ]
+    },
+    {
+      "player": "Jesse Winker",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.000 is -0.262 from career 0.262"
+        }
+      ]
+    },
+    {
+      "player": "Jesse Winker",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.000 is -0.262 from career 0.262"
+        }
+      ]
+    },
+    {
+      "player": "Jose Altuve",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.283 is -0.041 from career 0.324"
+        }
+      ]
+    },
+    {
+      "player": "J.T. Realmuto",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.127 is -0.057 from career 0.184"
+        }
+      ]
+    },
+    {
+      "player": "Julio Rodriguez",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.302 is -0.038 from career 0.340"
+        }
+      ]
+    },
+    {
+      "player": "Julio Rodriguez",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.302 is -0.038 from career 0.340"
+        }
+      ]
+    },
+    {
+      "player": "Ketel Marte",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.233 is +0.059 from career 0.174"
+        }
+      ]
+    },
+    {
+      "player": "Ketel Marte",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.233 is +0.059 from career 0.174"
+        }
+      ]
+    },
+    {
+      "player": "Kris Bryant",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.231 is -0.090 from career 0.321"
+        },
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.051 is -0.139 from career 0.190"
+        }
+      ]
+    },
+    {
+      "player": "Marcus Semien",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.251 is -0.038 from career 0.289"
+        },
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.134 is -0.042 from career 0.176"
+        }
+      ]
+    },
+    {
+      "player": "Marcus Semien",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.251 is -0.038 from career 0.289"
+        },
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.134 is -0.042 from career 0.176"
+        }
+      ]
+    },
+    {
+      "player": "Matt Olson",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.333 is +0.059 from career 0.274"
+        },
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.212 is -0.056 from career 0.268"
+        }
+      ]
+    },
+    {
+      "player": "Matt Olson",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.333 is +0.059 from career 0.274"
+        },
+        {
+          "tier": 2,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.212 is -0.056 from career 0.268"
+        }
+      ]
+    },
+    {
+      "player": "Michael Harris II",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.281 is -0.051 from career 0.332"
+        }
+      ]
+    },
+    {
+      "player": "Michael Harris II",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.281 is -0.051 from career 0.332"
+        }
+      ]
+    },
+    {
+      "player": "Mike Trout",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.206 is -0.076 from career 0.282"
+        }
+      ]
+    },
+    {
+      "player": "Mookie Betts",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.258 is -0.047 from career 0.305"
+        },
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.148 is -0.080 from career 0.228"
+        }
+      ]
+    },
+    {
+      "player": "Nolan Arenado",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.241 is -0.048 from career 0.289"
+        },
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.140 is -0.085 from career 0.225"
+        }
+      ]
+    },
+    {
+      "player": "Ozzie Albies",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.259 is -0.035 from career 0.294"
+        },
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.124 is -0.068 from career 0.192"
+        }
+      ]
+    },
+    {
+      "player": "Ozzie Albies",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.259 is -0.035 from career 0.294"
+        },
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.124 is -0.068 from career 0.192"
+        }
+      ]
+    },
+    {
+      "player": "Paul Goldschmidt",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.129 is -0.091 from career 0.220"
+        }
+      ]
+    },
+    {
+      "player": "Paul Goldschmidt",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "SELL",
+          "message": "ISO 0.129 is -0.091 from career 0.220"
+        }
+      ]
+    },
+    {
+      "player": "Pete Alonso",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.305 is +0.046 from career 0.259"
+        }
+      ]
+    },
+    {
+      "player": "Salvador Perez",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.251 is -0.047 from career 0.298"
+        }
+      ]
+    },
+    {
+      "player": "Salvador Perez",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.251 is -0.047 from career 0.298"
+        }
+      ]
+    },
+    {
+      "player": "Shohei Ohtani",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "ISO",
+          "signal": "BUY",
+          "message": "ISO 0.340 is +0.063 from career 0.277"
+        }
+      ]
+    },
+    {
+      "player": "Teoscar Hernandez",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.283 is -0.043 from career 0.326"
+        }
+      ]
+    },
+    {
+      "player": "Teoscar Hernandez",
+      "alerts": [
+        {
+          "tier": 2,
+          "metric": "BABIP",
+          "signal": "BUY",
+          "message": "BABIP 0.283 is -0.043 from career 0.326"
+        }
+      ]
+    },
+    {
+      "player": "Will Smith",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.345 is +0.069 from career 0.276"
+        }
+      ]
+    },
+    {
+      "player": "Will Smith",
+      "alerts": [
+        {
+          "tier": 1,
+          "metric": "BABIP",
+          "signal": "SELL",
+          "message": "BABIP 0.345 is +0.069 from career 0.276"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
