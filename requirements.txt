@@ -8,3 +8,7 @@ python-dotenv==1.0.0
 playwright==1.40.0
 lxml==5.1.0
 pybaseball>=2.2.7
+
+# Dashboard dependencies
+streamlit>=1.31.0
+plotly>=5.18.0
