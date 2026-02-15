@@ -73,6 +73,17 @@ A comprehensive MLB player analytics platform with regression detection, perform
 
 ## 🚀 Quick Start
 
+### Launch Interactive Dashboard
+```bash
+# On macOS/Linux
+streamlit run dashboard/app.py
+
+# On Windows (if streamlit command not found)
+python -m streamlit run dashboard/app.py
+```
+
+The dashboard provides an interactive web interface for exploring player stats, predictions, and regression signals.
+
 ### Generate Player Report
 ```bash
 python -m src.analytics.player_report
@@ -101,6 +112,10 @@ python -m src.automation.alert_digest
 ## 📁 Project Structure
 ```
 baseball-analytics/
+├── dashboard/               # Interactive web dashboard
+│   ├── app.py
+│   ├── requirements.txt
+│   └── README.md
 ├── src/
 │   ├── analytics/           # Core analytics modules
 │   │   ├── role_classifier.py
