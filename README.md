@@ -28,6 +28,49 @@ A comprehensive MLB player analytics platform with regression detection, perform
 - `season_stats` - Season-level batting statistics
 - `statcast_data` - Reserved for future Statcast integration
 
+## 📦 Installation
+
+### Prerequisites
+- Python 3.11 or higher
+- PostgreSQL database (or connection to Railway/similar service)
+- pip (latest version recommended)
+
+### Setup Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd baseball-analytics
+   ```
+
+2. **Upgrade pip (recommended)**
+   ```bash
+   python -m pip install --upgrade pip
+   ```
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Configure environment variables**
+   Create a `.env` file with your database credentials:
+   ```
+   DATABASE_URL=postgresql://user:password@host:port/database
+   ```
+
+5. **Initialize the database**
+   ```bash
+   python -c "from src.utils.db_connection import init_database; init_database()"
+   ```
+
+### Troubleshooting
+
+**psycopg2-binary installation errors:**
+- Ensure pip is up to date: `python -m pip install --upgrade pip`
+- The updated requirements.txt uses `psycopg2-binary>=2.9.10` which has better prebuilt wheel support
+- On Windows, if issues persist, you may need to install Microsoft Visual C++ Build Tools
+
 ## 🚀 Quick Start
 
 ### Generate Player Report
