@@ -37,6 +37,9 @@ Interactive web dashboard for exploring MLB player analytics, predictions, and r
 
 ### Install Dependencies
 ```bash
+# Upgrade pip first (recommended)
+python -m pip install --upgrade pip
+
 # From project root
 pip install streamlit plotly
 
