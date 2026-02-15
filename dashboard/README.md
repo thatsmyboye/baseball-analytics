@@ -48,6 +48,8 @@ pip install -r requirements.txt
 ```
 
 ### Run Dashboard
+
+**On macOS/Linux:**
 ```bash
 # From project root
 streamlit run dashboard/app.py
@@ -56,7 +58,18 @@ streamlit run dashboard/app.py
 streamlit run app.py
 ```
 
+**On Windows (PowerShell/Command Prompt):**
+```bash
+# From project root
+python -m streamlit run dashboard/app.py
+
+# Or from dashboard folder
+python -m streamlit run app.py
+```
+
 The dashboard will open in your default browser at `http://localhost:8501`
+
+> **Why `python -m streamlit`?** On Windows, the `streamlit` executable may not be in your PATH even after installation. Using `python -m streamlit` ensures Python can find the module.
 
 ## Usage Tips
 
@@ -80,7 +93,11 @@ Data is cached for 5 minutes to improve performance. If you update the database,
 ### Local Network Access
 To allow other devices on your network to access the dashboard:
 ```bash
+# macOS/Linux
 streamlit run app.py --server.address=0.0.0.0
+
+# Windows
+python -m streamlit run app.py --server.address=0.0.0.0
 ```
 
 Then access from other devices using your computer's IP address:
@@ -140,6 +157,19 @@ Modify `app.py` to:
 - Add custom metrics
 
 ## Troubleshooting
+
+### "streamlit is not recognized" (Windows)
+If you get the error:
+```
+streamlit : The term 'streamlit' is not recognized as the name of a cmdlet, function, script file, or operable program.
+```
+
+**Solution:** Use `python -m streamlit` instead of just `streamlit`:
+```bash
+python -m streamlit run dashboard/app.py
+```
+
+This happens because the Python Scripts directory isn't in your PATH, or you're in a virtual environment that hasn't been activated properly.
 
 ### Dashboard won't start
 - Check that all dependencies are installed: `pip install -r requirements.txt`
