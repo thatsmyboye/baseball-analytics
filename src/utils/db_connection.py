@@ -36,7 +36,7 @@ def contains_placeholder(url, placeholder):
     return False
 
 placeholder_values = ['user', 'password', 'host', 'port', 'database']
-if all(contains_placeholder(DATABASE_URL, placeholder) for placeholder in placeholder_values):
+if any(contains_placeholder(DATABASE_URL, placeholder) for placeholder in placeholder_values):
     raise ValueError(
         "DATABASE_URL contains placeholder values.\n"
         "Please update your .env file with actual database credentials:\n"
