@@ -8,7 +8,12 @@ load_dotenv()
 DATABASE_URL = os.getenv('DATABASE_URL')
 
 if not DATABASE_URL:
-    raise ValueError("DATABASE_URL not found in environment variables")
+    raise ValueError(
+        "DATABASE_URL not found in environment variables.\n"
+        "Please create a .env file in the project root with:\n"
+        "DATABASE_URL=postgresql://user:password@host:port/database\n"
+        "See .env.example for a template."
+    )
 
 # Create engine
 engine = create_engine(DATABASE_URL)
