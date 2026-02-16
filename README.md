@@ -54,10 +54,22 @@ A comprehensive MLB player analytics platform with regression detection, perform
    ```
 
 4. **Configure environment variables**
-   Create a `.env` file with your database credentials:
+
+   Copy the example environment file:
+   ```bash
+   cp .env.example .env
    ```
-   DATABASE_URL=postgresql://user:password@host:port/database
+
+   Then edit `.env` and replace the placeholder values with your actual database credentials:
    ```
+   DATABASE_URL=postgresql://your_username:your_password@your_host:5432/your_database
+   ```
+
+   **Examples:**
+   - Local PostgreSQL: `postgresql://postgres:mypassword@localhost:5432/baseball`
+   - Railway: `postgresql://postgres:password@containers-us-west-xyz.railway.app:5432/railway`
+
+   **Important:** Replace ALL placeholder values (`user`, `password`, `host`, `port`, `database`) with actual credentials.
 
 5. **Initialize the database**
    ```bash
@@ -65,6 +77,19 @@ A comprehensive MLB player analytics platform with regression detection, perform
    ```
 
 ### Troubleshooting
+
+**"ValueError: invalid literal for int() with base 10: 'port'"**
+This error occurs when your `.env` file contains placeholder values instead of actual database credentials.
+
+Solution:
+1. Open your `.env` file in the project root
+2. Replace ALL placeholder values with actual credentials (see step 4 above for examples)
+3. Make sure to replace: `user`, `password`, `host`, `port`, and `database` with real values
+
+**"DATABASE_URL not found in environment variables"**
+You haven't created a `.env` file yet.
+
+Solution: `cp .env.example .env` then edit with your actual credentials.
 
 **psycopg2-binary installation errors:**
 - Ensure pip is up to date: `python -m pip install --upgrade pip`

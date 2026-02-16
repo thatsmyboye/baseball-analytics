@@ -15,6 +15,24 @@ if not DATABASE_URL:
         "See .env.example for a template."
     )
 
+# Validate DATABASE_URL doesn't contain placeholder values
+placeholder_values = ['user', 'password', 'host', 'port', 'database']
+if any(f':{placeholder}@' in DATABASE_URL or f'@{placeholder}:' in DATABASE_URL or
+       f'/{placeholder}' in DATABASE_URL.split('/')[-1] for placeholder in placeholder_values):
+    raise ValueError(
+        "DATABASE_URL contains placeholder values.\n"
+        "Please update your .env file with actual database credentials:\n"
+        "  - Replace 'user' with your database username\n"
+        "  - Replace 'password' with your database password\n"
+        "  - Replace 'host' with your database host (e.g., localhost)\n"
+        "  - Replace 'port' with your database port (e.g., 5432)\n"
+        "  - Replace 'database' with your database name\n\n"
+        f"Current value: {DATABASE_URL}\n\n"
+        "Example valid URLs:\n"
+        "  postgresql://postgres:mypassword@localhost:5432/baseball\n"
+        "  postgresql://admin:secret@db.example.com:5432/analytics"
+    )
+
 # Create engine
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(bind=engine)

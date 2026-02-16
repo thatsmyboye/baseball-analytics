@@ -35,7 +35,7 @@ Interactive web dashboard for exploring MLB player analytics, predictions, and r
 
 ## Installation
 
-### Install Dependencies
+### 1. Install Dependencies
 ```bash
 # Upgrade pip first (recommended)
 python -m pip install --upgrade pip
@@ -47,7 +47,40 @@ pip install streamlit plotly
 pip install -r requirements.txt
 ```
 
-### Run Dashboard
+### 2. Configure Database Connection
+
+**IMPORTANT:** You must configure your database connection before running the dashboard.
+
+1. Copy the example environment file:
+   ```bash
+   # From project root
+   cp .env.example .env
+   ```
+
+2. Edit `.env` and replace the placeholder values with your actual database credentials:
+   ```
+   DATABASE_URL=postgresql://your_username:your_password@your_host:5432/your_database
+   ```
+
+   **Examples:**
+   - Local PostgreSQL: `postgresql://postgres:mypassword@localhost:5432/baseball`
+   - Railway: `postgresql://postgres:password@containers-us-west-xyz.railway.app:5432/railway`
+   - Heroku: `postgresql://user:password@ec2-xxx.compute-1.amazonaws.com:5432/dbname`
+
+   **Common values to replace:**
+   - `user` → Your database username (e.g., `postgres`)
+   - `password` → Your database password
+   - `host` → Your database host (e.g., `localhost` for local databases)
+   - `port` → Your database port (usually `5432` for PostgreSQL)
+   - `database` → Your database name (e.g., `baseball`)
+
+3. Verify your configuration:
+   ```bash
+   # From project root
+   python -c "from src.utils.db_connection import test_connection; test_connection()"
+   ```
+
+### 3. Run Dashboard
 
 **On macOS/Linux:**
 ```bash
@@ -158,6 +191,37 @@ Modify `app.py` to:
 
 ## Troubleshooting
 
+### "ValueError: invalid literal for int() with base 10: 'port'"
+This error occurs when your `.env` file contains placeholder values instead of actual database credentials.
+
+**Solution:**
+1. Open your `.env` file in the project root
+2. Replace ALL placeholder values with actual credentials:
+   - Replace `user` with your database username
+   - Replace `password` with your database password
+   - Replace `host` with your database host (e.g., `localhost`)
+   - Replace `port` with your database port (e.g., `5432`)
+   - Replace `database` with your database name
+
+**Example:** Change this:
+```
+DATABASE_URL=postgresql://user:password@host:port/database
+```
+To this:
+```
+DATABASE_URL=postgresql://postgres:mypassword@localhost:5432/baseball
+```
+
+### "DATABASE_URL not found in environment variables"
+This error means you haven't created a `.env` file.
+
+**Solution:**
+```bash
+# From project root
+cp .env.example .env
+# Then edit .env with your actual database credentials
+```
+
 ### "streamlit is not recognized" (Windows)
 If you get the error:
 ```
@@ -173,7 +237,7 @@ This happens because the Python Scripts directory isn't in your PATH, or you're 
 
 ### Dashboard won't start
 - Check that all dependencies are installed: `pip install -r requirements.txt`
-- Verify database connection is working
+- Verify database connection is working: `python -c "from src.utils.db_connection import test_connection; test_connection()"`
 - Check for port conflicts (8501 is default)
 
 ### Data not showing
