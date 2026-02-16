@@ -16,9 +16,27 @@ if not DATABASE_URL:
     )
 
 # Validate DATABASE_URL doesn't contain placeholder values
+def contains_placeholder(url, placeholder):
+    """Check if URL contains a specific placeholder value"""
+    if placeholder == 'user':
+        # user appears after :// and before : or @
+        return f'://{placeholder}:' in url or f'://{placeholder}@' in url
+    elif placeholder == 'password':
+        # password appears after : and before @
+        return f':{placeholder}@' in url
+    elif placeholder == 'host':
+        # host appears after @ and before :
+        return f'@{placeholder}:' in url
+    elif placeholder == 'port':
+        # port appears after : and before /
+        return f':{placeholder}/' in url
+    elif placeholder == 'database':
+        # database is the last segment after the final /
+        return url.split('/')[-1] == placeholder
+    return False
+
 placeholder_values = ['user', 'password', 'host', 'port', 'database']
-if any(f':{placeholder}@' in DATABASE_URL or f'@{placeholder}:' in DATABASE_URL or
-       f'/{placeholder}' in DATABASE_URL.split('/')[-1] for placeholder in placeholder_values):
+if any(contains_placeholder(DATABASE_URL, placeholder) for placeholder in placeholder_values):
     raise ValueError(
         "DATABASE_URL contains placeholder values.\n"
         "Please update your .env file with actual database credentials:\n"
