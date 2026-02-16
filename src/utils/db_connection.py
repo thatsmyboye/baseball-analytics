@@ -27,7 +27,6 @@ if any(f':{placeholder}@' in DATABASE_URL or f'@{placeholder}:' in DATABASE_URL 
         "  - Replace 'host' with your database host (e.g., localhost)\n"
         "  - Replace 'port' with your database port (e.g., 5432)\n"
         "  - Replace 'database' with your database name\n\n"
-        f"Current value: {DATABASE_URL}\n\n"
         "Example valid URLs:\n"
         "  postgresql://postgres:mypassword@localhost:5432/baseball\n"
         "  postgresql://admin:secret@db.example.com:5432/analytics"
