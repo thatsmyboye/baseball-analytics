@@ -80,6 +80,16 @@ Prospect Smith,sa657521
 - ✅ Preserves both numeric and string ID types
 - ✅ No changes needed to downstream code (`player_id_resolver.py`)
 
+## Important Note on Data Dependencies
+
+The fix relies on the presence of "sa" prefix IDs (prospect IDs) in the FanGraphsID column to force pandas to read the column as object dtype when loading the CSV. The current Razzball data contains **205 "sa" IDs** out of 1909 total non-null FanGraphsID values.
+
+When pandas reads a CSV with:
+- **Only numeric values + empty cells**: Infers `float64` dtype → causes "2136.0" problem
+- **Mixed numeric + "sa" string values**: Infers `object` dtype → preserves "2136" correctly ✅
+
+This is the standard pandas behavior and is not a limitation of this fix. The Razzball source data naturally contains these prospect IDs, which ensures correct behavior.
+
 ## Testing Recommendations
 
 When testing the update script:
