@@ -131,22 +131,31 @@ def load_regression_signals(season=2025):
             JOIN season_stats ss ON p.player_id = ss.player_id
             WHERE ss.season = :season
               AND ss.pa >= 100
+            ORDER BY ss.pa DESC
         """)
         
         players = session.execute(query, {'season': season}).fetchall()
         
-        results = []
+        # Deduplicate: only process each player once (take team with most PA)
+        seen_ids = set()
+        unique_players = []
         for player_id, name, team in players:
+            if player_id not in seen_ids:
+                seen_ids.add(player_id)
+                unique_players.append((player_id, name, team))
+
+        results = []
+        for player_id, name, team in unique_players:
             analysis = detector.analyze_player_season(player_id, season)
-            
+
             if analysis and analysis['alerts']:
                 results.append({
                     'player_id': player_id,
                     'name': name,
                     'team': team,
-                    'net_score': analysis['net_score'],
-                    'tier1_buys': analysis['tier1_buys'],
-                    'tier1_sells': analysis['tier1_sells'],
+                    'net_score': analysis['net_signal'],
+                    'tier1_buys': analysis['buy_signals'],
+                    'tier1_sells': analysis['sell_signals'],
                     'alerts': analysis['alerts']
                 })
         
@@ -468,6 +477,54 @@ def show_player_prediction(player_id, player_name):
                 st.markdown(f"- ⚠️ {flag}")
 
 
+def show_predictions():
+    """Display 2026 season predictions for all players"""
+    st.title("🔮 2026 Predictions")
+    st.markdown("### Projected wRC+ for Next Season")
+
+    players_df = load_players()
+
+    if players_df.empty:
+        st.warning("No players available")
+        return
+
+    predictor = AdvancedPerformancePredictor()
+
+    with st.spinner("Generating predictions..."):
+        results = []
+        for _, player in players_df.iterrows():
+            pred = predictor.predict_next_season_advanced(player['player_id'], 2025)
+            if pred:
+                results.append({
+                    'Player': player['name'],
+                    'Projected wRC+': pred['predicted_wrc'],
+                    'Range': f"{pred['prediction_range'][0]}-{pred['prediction_range'][1]}",
+                    'Age (2026)': pred['next_age'],
+                    'Confidence': pred['confidence'],
+                    'Age Adj': pred['age_adjustment'],
+                    'Discipline Adj': pred['discipline_adjustment'],
+                    'Power Adj': pred['power_adjustment'],
+                })
+
+    if not results:
+        st.warning("No predictions available - insufficient player data")
+        return
+
+    pred_df = pd.DataFrame(results).sort_values('Projected wRC+', ascending=False)
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.metric("Avg Projected wRC+", f"{pred_df['Projected wRC+'].mean():.0f}")
+    with col2:
+        st.metric("Players Projected", len(pred_df))
+    with col3:
+        high_conf = len(pred_df[pred_df['Confidence'] == 'HIGH'])
+        st.metric("High Confidence", high_conf)
+
+    st.markdown("### Leaderboard")
+    st.dataframe(pred_df, use_container_width=True, hide_index=True)
+
+
 def show_regression_signals():
     """Display regression signals page"""
     st.title("📊 Regression Signals")
@@ -523,16 +580,47 @@ def show_league_stats():
     
     session = get_session()
     
+    # Standard 30 MLB team abbreviations as used by FanGraphs
+    MLB_TEAMS = (
+        'ARI', 'ATL', 'BAL', 'BOS', 'CHC', 'CWS', 'CIN', 'CLE', 'COL', 'DET',
+        'HOU', 'KC', 'LAA', 'LAD', 'MIA', 'MIL', 'MIN', 'NYM', 'NYY', 'OAK',
+        'PHI', 'PIT', 'SD', 'SEA', 'SF', 'STL', 'TB', 'TEX', 'TOR', 'WSH',
+        'ATH',  # Oakland/Sacramento Athletics (post-2024 rebrand)
+    )
+    mlb_team_list = ", ".join(f"'{t}'" for t in MLB_TEAMS)
+
     try:
-        # Load 2025 stats
-        query = text("""
-            SELECT p.name, ss.team, ss.pa, ss.wrc_plus, ss.avg, ss.obp, ss.slg,
-                   ss.hr, ss.rbi, ss.babip, ss.iso, ss.k_pct, ss.bb_pct
-            FROM season_stats ss
-            JOIN players p ON ss.player_id = p.player_id
-            WHERE ss.season = 2025
-              AND ss.pa >= 100
-            ORDER BY ss.wrc_plus DESC
+        # Load 2025 stats - group by player to eliminate multi-team duplicates,
+        # filter to MLB teams only to exclude non-MLB leagues (e.g. KBO, NPB).
+        # Rate stats (AVG, OBP, SLG, wRC+, BABIP, ISO, K%, BB%) are PA-weighted.
+        query = text(f"""
+            WITH mlb_stats AS (
+                SELECT ss.player_id, ss.team, ss.pa, ss.wrc_plus,
+                       ss.avg, ss.obp, ss.slg, ss.hr, ss.rbi,
+                       ss.babip, ss.iso, ss.k_pct, ss.bb_pct
+                FROM season_stats ss
+                WHERE ss.season = 2025
+                  AND ss.team IN ({mlb_team_list})
+            )
+            SELECT p.name,
+                   CASE WHEN COUNT(DISTINCT m.team) > 1 THEN 'TOT'
+                        ELSE MAX(m.team) END AS team,
+                   SUM(m.pa) AS pa,
+                   CAST(SUM(m.pa * m.wrc_plus) / SUM(m.pa) AS INTEGER) AS wrc_plus,
+                   ROUND(CAST(SUM(m.pa * m.avg)    / SUM(m.pa) AS NUMERIC), 3) AS avg,
+                   ROUND(CAST(SUM(m.pa * m.obp)    / SUM(m.pa) AS NUMERIC), 3) AS obp,
+                   ROUND(CAST(SUM(m.pa * m.slg)    / SUM(m.pa) AS NUMERIC), 3) AS slg,
+                   SUM(m.hr)  AS hr,
+                   SUM(m.rbi) AS rbi,
+                   ROUND(CAST(SUM(m.pa * m.babip)  / SUM(m.pa) AS NUMERIC), 3) AS babip,
+                   ROUND(CAST(SUM(m.pa * m.iso)    / SUM(m.pa) AS NUMERIC), 3) AS iso,
+                   ROUND(CAST(SUM(m.pa * m.k_pct)  / SUM(m.pa) AS NUMERIC), 1) AS k_pct,
+                   ROUND(CAST(SUM(m.pa * m.bb_pct) / SUM(m.pa) AS NUMERIC), 1) AS bb_pct
+            FROM mlb_stats m
+            JOIN players p ON m.player_id = p.player_id
+            GROUP BY p.player_id, p.name
+            HAVING SUM(m.pa) >= 100
+            ORDER BY wrc_plus DESC
         """)
         
         df = pd.read_sql(query, session.bind)
