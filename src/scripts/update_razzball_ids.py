@@ -303,6 +303,36 @@ def main():
             if backup_path:
                 print(f"Backup saved to: {backup_path}")
 
+        # Convert numeric ID columns to nullable integers to avoid float notation in CSV
+        # This prevents "2136.0" which would fail str.isnumeric() checks downstream
+        # Note: FantraxID is excluded as it contains string codes (e.g., "*03d1m*")
+        # FanGraphsID can contain "sa" prefix for prospects, so handle mixed types
+        for col in ["MLBAMID", "RazzballID", "NFBCID"]:
+            if col in new_df.columns:
+                # Convert to Int64 (nullable integer type) to preserve NaN while writing integers
+                new_df[col] = new_df[col].astype("Int64")
+        
+        # FanGraphsID needs special handling for mixed numeric/string values
+        if "FanGraphsID" in new_df.columns:
+            # Convert to string first to handle both floats and strings
+            new_df["FanGraphsID"] = new_df["FanGraphsID"].astype(str)
+            # Replace 'nan' string with empty string for cleaner CSV
+            new_df["FanGraphsID"] = new_df["FanGraphsID"].replace("nan", "")
+            # For purely numeric strings that came from floats, remove the .0
+            def clean_numeric_id(val):
+                if val == "" or val == "nan":
+                    return ""
+                # If it's a float string like "2136.0", convert to int string
+                try:
+                    if "." in val:
+                        float_val = float(val)
+                        if float_val == float_val:  # Check not NaN
+                            return str(int(float_val))
+                except (ValueError, OverflowError):
+                    pass
+                return val
+            new_df["FanGraphsID"] = new_df["FanGraphsID"].apply(clean_numeric_id)
+
         new_df.to_csv(LOCAL_CSV, index=False, encoding="utf-8-sig")
         print(f"Updated {LOCAL_CSV} with {len(new_df)} players")
     elif args.dry_run and has_changes:
