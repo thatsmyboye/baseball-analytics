@@ -131,6 +131,7 @@ def load_regression_signals(season=2025):
             JOIN season_stats ss ON p.player_id = ss.player_id
             WHERE ss.season = :season
               AND ss.pa >= 100
+            ORDER BY ss.pa DESC
         """)
         
         players = session.execute(query, {'season': season}).fetchall()
